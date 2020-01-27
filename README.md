@@ -1,0 +1,1 @@
+wm_rhasspy_ros_bridge
