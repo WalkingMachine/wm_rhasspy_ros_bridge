@@ -1,0 +1,222 @@
+{
+    "intents": {
+        "Start": {
+            "name": "Start",
+            "require": [],
+            "optionally": [
+                "StartOptionalKeyword"
+            ]
+        },
+        "Stop": {
+            "name": "Stop",
+            "require": [
+                "StopRequiredKeyword"
+            ],
+            "optionally": [
+                "StopOptionalKeyword"
+            ]
+        },
+        "And": {
+            "name": "And",
+            "require": [],
+            "optionally": []
+        },
+        "Go": {
+            "name": "Go",
+            "require": [
+                "GoRequiredKeyword"
+            ],
+            "optionally": [
+                "Go.room"
+            ]
+        },
+        "Grabbing": {
+            "name": "Grabbing",
+            "require": [],
+            "optionally": [
+                "GrabbingOptionalKeyword",
+                "Grabbing.object"
+            ]
+        },
+        "Yes": {
+            "name": "Yes",
+            "require": [],
+            "optionally": [
+                "YesOptionalKeyword"
+            ]
+        },
+        "No": {
+            "name": "No",
+            "require": [],
+            "optionally": [
+                "NoOptionalKeyword"
+            ]
+        },
+        "Wake": {
+            "name": "Wake",
+            "require": [],
+            "optionally": [
+                "WakeOptionalKeyword"
+            ]
+        },
+        "GetTime": {
+            "name": "GetTime",
+            "require": [
+                "GetTimeRequiredKeyword"
+            ],
+            "optionally": [
+                "GetTimeOptionalKeyword"
+            ]
+        },
+        "GetTemperature": {
+            "name": "GetTemperature",
+            "require": [],
+            "optionally": [
+                "GetTemperatureOptionalKeyword"
+            ]
+        },
+        "GetGarageState": {
+            "name": "GetGarageState",
+            "require": [
+                "GetGarageStateRequiredKeyword"
+            ],
+            "optionally": [
+                "GetGarageStateOptionalKeyword"
+            ]
+        },
+        "ChangeLightState": {
+            "name": "ChangeLightState",
+            "require": [
+                "ChangeLightStateRequiredKeyword",
+                "ChangeLightState.state",
+                "ChangeLightState.name"
+            ],
+            "optionally": []
+        },
+        "ChangeLightColor": {
+            "name": "ChangeLightColor",
+            "require": [
+                "ChangeLightColor.name",
+                "ChangeLightColor.color"
+            ],
+            "optionally": [
+                "ChangeLightColorOptionalKeyword"
+            ]
+        }
+    },
+    "entities": {
+        "StartOptionalKeyword": [
+            "eight",
+            "three",
+            "start",
+            "four",
+            "five",
+            "robot",
+            "two",
+            "system",
+            "six",
+            "nine",
+            "zero",
+            "seven",
+            "scenario",
+            "initialize",
+            "one"
+        ],
+        "StopRequiredKeyword": [
+            "stop"
+        ],
+        "StopOptionalKeyword": [
+            "emergency",
+            "system"
+        ],
+        "Go.room": [
+            "entrance",
+            "kitchen",
+            "living-room",
+            "bathroom"
+        ],
+        "GoRequiredKeyword": [
+            "go"
+        ],
+        "Grabbing.object": [
+            "glass",
+            "pineapple",
+            "box",
+            "wallet",
+            "dish",
+            "banana",
+            "bag",
+            "apple"
+        ],
+        "GrabbingOptionalKeyword": [
+            "grab",
+            "pickup",
+            "take"
+        ],
+        "YesOptionalKeyword": [
+            "affirmative",
+            "want",
+            "need",
+            "yes"
+        ],
+        "NoOptionalKeyword": [
+            "negative",
+            "need",
+            "don't",
+            "nope",
+            "want"
+        ],
+        "WakeOptionalKeyword": [
+            "rhasspy",
+            "okay",
+            "hey",
+            "sara",
+            "snowboy"
+        ],
+        "GetTimeRequiredKeyword": [
+            "time"
+        ],
+        "GetTimeOptionalKeyword": [
+            "tell",
+            "what"
+        ],
+        "GetTemperatureOptionalKeyword": [
+            "whats",
+            "cold",
+            "temperature",
+            "hot"
+        ],
+        "GetGarageStateRequiredKeyword": [
+            "door",
+            "garage"
+        ],
+        "GetGarageStateOptionalKeyword": [
+            "open",
+            "closed"
+        ],
+        "ChangeLightState.state": [
+            "off",
+            "on"
+        ],
+        "ChangeLightState.name": [
+            "bedroom light",
+            "living room lamp",
+            "garage light"
+        ],
+        "ChangeLightStateRequiredKeyword": [
+            "turn"
+        ],
+        "ChangeLightColor.name": [
+            "bedroom light"
+        ],
+        "ChangeLightColor.color": [
+            "red",
+            "green",
+            "blue"
+        ],
+        "ChangeLightColorOptionalKeyword": [
+            "set",
+            "make"
+        ]
+    }
+}

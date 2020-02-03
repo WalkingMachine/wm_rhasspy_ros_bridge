@@ -1,0 +1,12 @@
+
+.idea/
+
+src/__pycache__/
+
+.pyenv/
+
+rhasspy_config/profiles/fr/
+
+rhasspy_config/profiles/en/tts/googlewavenet/credentials.json
+
+rhasspy_config/profiles/en/download/

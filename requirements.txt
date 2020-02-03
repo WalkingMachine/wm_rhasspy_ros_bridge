@@ -1,0 +1,7 @@
+paho-mqtt
+pyyaml
+roslibpy
+rospkg
+requests
+websocket
+netifaces

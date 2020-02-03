@@ -1,0 +1,42 @@
+{
+    "handle": {
+        "remote": {
+            "url": "http://172.17.0.1:8010/api/call"
+        },
+        "system": "remote"
+    },
+    "intent": {
+        "system": "fuzzywuzzy"
+    },
+    "microphone": {
+        "system": "hermes"
+    },
+    "mqtt": {
+        "enabled": true,
+        "host": "172.17.0.1",
+        "publish_intents": false
+    },
+    "sounds": {
+        "error": "/profiles/en/silence.wav",
+        "recorded": "/profiles/en/silence.wav",
+        "system": "hermes",
+        "wake": "/profiles/en/doung_1.wav"
+    },
+    "speech_to_text": {
+        "system": "kaldi"
+    },
+    "text_to_speech": {
+        "disable_wake": true,
+        "system": "picotts"
+    },
+    "wake": {
+        "pocketsphinx": {
+            "keyphrase": "hey sara",
+            "threshold": 3.1622776601683794e-28
+        },
+        "porcupine": {
+            "keyword_path": "porcupine/hey_sara_linux_2020-02-13.ppn"
+        },
+        "system": "porcupine"
+    }
+}

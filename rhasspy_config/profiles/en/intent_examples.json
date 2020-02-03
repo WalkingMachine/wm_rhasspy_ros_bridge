@@ -1,0 +1,4863 @@
+{
+    "Start": [
+        {
+            "intent": {
+                "name": "Start",
+                "confidence": 1.0
+            },
+            "entities": [],
+            "text": "robot start",
+            "raw_text": "robot start",
+            "recognize_seconds": 0,
+            "tokens": [
+                "robot",
+                "start"
+            ],
+            "raw_tokens": [
+                "robot",
+                "start"
+            ]
+        },
+        {
+            "intent": {
+                "name": "Start",
+                "confidence": 1.0
+            },
+            "entities": [],
+            "text": "initialize system",
+            "raw_text": "initialize system",
+            "recognize_seconds": 0,
+            "tokens": [
+                "initialize",
+                "system"
+            ],
+            "raw_tokens": [
+                "initialize",
+                "system"
+            ]
+        },
+        {
+            "intent": {
+                "name": "Start",
+                "confidence": 1.0
+            },
+            "entities": [],
+            "text": "start scenario 3",
+            "raw_text": "start scenario three",
+            "recognize_seconds": 0,
+            "tokens": [
+                "start",
+                "scenario",
+                3
+            ],
+            "raw_tokens": [
+                "start",
+                "scenario",
+                "three"
+            ]
+        },
+        {
+            "intent": {
+                "name": "Start",
+                "confidence": 1.0
+            },
+            "entities": [],
+            "text": "start scenario 9",
+            "raw_text": "start scenario nine",
+            "recognize_seconds": 0,
+            "tokens": [
+                "start",
+                "scenario",
+                9
+            ],
+            "raw_tokens": [
+                "start",
+                "scenario",
+                "nine"
+            ]
+        },
+        {
+            "intent": {
+                "name": "Start",
+                "confidence": 1.0
+            },
+            "entities": [],
+            "text": "start scenario 1",
+            "raw_text": "start scenario one",
+            "recognize_seconds": 0,
+            "tokens": [
+                "start",
+                "scenario",
+                1
+            ],
+            "raw_tokens": [
+                "start",
+                "scenario",
+                "one"
+            ]
+        },
+        {
+            "intent": {
+                "name": "Start",
+                "confidence": 1.0
+            },
+            "entities": [],
+            "text": "start scenario 8",
+            "raw_text": "start scenario eight",
+            "recognize_seconds": 0,
+            "tokens": [
+                "start",
+                "scenario",
+                8
+            ],
+            "raw_tokens": [
+                "start",
+                "scenario",
+                "eight"
+            ]
+        },
+        {
+            "intent": {
+                "name": "Start",
+                "confidence": 1.0
+            },
+            "entities": [],
+            "text": "start scenario 7",
+            "raw_text": "start scenario seven",
+            "recognize_seconds": 0,
+            "tokens": [
+                "start",
+                "scenario",
+                7
+            ],
+            "raw_tokens": [
+                "start",
+                "scenario",
+                "seven"
+            ]
+        },
+        {
+            "intent": {
+                "name": "Start",
+                "confidence": 1.0
+            },
+            "entities": [],
+            "text": "start scenario",
+            "raw_text": "start scenario zero",
+            "recognize_seconds": 0,
+            "tokens": [
+                "start",
+                "scenario"
+            ],
+            "raw_tokens": [
+                "start",
+                "scenario",
+                "zero"
+            ]
+        },
+        {
+            "intent": {
+                "name": "Start",
+                "confidence": 1.0
+            },
+            "entities": [],
+            "text": "start scenario 6",
+            "raw_text": "start scenario six",
+            "recognize_seconds": 0,
+            "tokens": [
+                "start",
+                "scenario",
+                6
+            ],
+            "raw_tokens": [
+                "start",
+                "scenario",
+                "six"
+            ]
+        },
+        {
+            "intent": {
+                "name": "Start",
+                "confidence": 1.0
+            },
+            "entities": [],
+            "text": "start scenario 4",
+            "raw_text": "start scenario four",
+            "recognize_seconds": 0,
+            "tokens": [
+                "start",
+                "scenario",
+                4
+            ],
+            "raw_tokens": [
+                "start",
+                "scenario",
+                "four"
+            ]
+        },
+        {
+            "intent": {
+                "name": "Start",
+                "confidence": 1.0
+            },
+            "entities": [],
+            "text": "start scenario 5",
+            "raw_text": "start scenario five",
+            "recognize_seconds": 0,
+            "tokens": [
+                "start",
+                "scenario",
+                5
+            ],
+            "raw_tokens": [
+                "start",
+                "scenario",
+                "five"
+            ]
+        },
+        {
+            "intent": {
+                "name": "Start",
+                "confidence": 1.0
+            },
+            "entities": [],
+            "text": "start scenario 2",
+            "raw_text": "start scenario two",
+            "recognize_seconds": 0,
+            "tokens": [
+                "start",
+                "scenario",
+                2
+            ],
+            "raw_tokens": [
+                "start",
+                "scenario",
+                "two"
+            ]
+        }
+    ],
+    "Stop": [
+        {
+            "intent": {
+                "name": "Stop",
+                "confidence": 1.0
+            },
+            "entities": [],
+            "text": "stop system",
+            "raw_text": "stop system",
+            "recognize_seconds": 0,
+            "tokens": [
+                "stop",
+                "system"
+            ],
+            "raw_tokens": [
+                "stop",
+                "system"
+            ]
+        },
+        {
+            "intent": {
+                "name": "Stop",
+                "confidence": 1.0
+            },
+            "entities": [],
+            "text": "emergency stop",
+            "raw_text": "emergency stop",
+            "recognize_seconds": 0,
+            "tokens": [
+                "emergency",
+                "stop"
+            ],
+            "raw_tokens": [
+                "emergency",
+                "stop"
+            ]
+        }
+    ],
+    "And": [
+        {
+            "intent": {
+                "name": "And",
+                "confidence": 1.0
+            },
+            "entities": [],
+            "text": "and",
+            "raw_text": "and",
+            "recognize_seconds": 0,
+            "tokens": [
+                "and"
+            ],
+            "raw_tokens": [
+                "and"
+            ]
+        }
+    ],
+    "Go": [
+        {
+            "intent": {
+                "name": "Go",
+                "confidence": 1.0
+            },
+            "entities": [
+                {
+                    "entity": "room",
+                    "value": "bathroom",
+                    "raw_value": "bathroom",
+                    "start": 10,
+                    "raw_start": 10,
+                    "end": 18,
+                    "raw_end": 18,
+                    "tokens": [
+                        "bathroom"
+                    ],
+                    "raw_tokens": [
+                        "bathroom"
+                    ]
+                }
+            ],
+            "text": "go to the bathroom",
+            "raw_text": "go to the bathroom",
+            "recognize_seconds": 0,
+            "tokens": [
+                "go",
+                "to",
+                "the",
+                "bathroom"
+            ],
+            "raw_tokens": [
+                "go",
+                "to",
+                "the",
+                "bathroom"
+            ]
+        },
+        {
+            "intent": {
+                "name": "Go",
+                "confidence": 1.0
+            },
+            "entities": [
+                {
+                    "entity": "room",
+                    "value": "entrance",
+                    "raw_value": "entrance",
+                    "start": 10,
+                    "raw_start": 10,
+                    "end": 18,
+                    "raw_end": 18,
+                    "tokens": [
+                        "entrance"
+                    ],
+                    "raw_tokens": [
+                        "entrance"
+                    ]
+                }
+            ],
+            "text": "go to the entrance",
+            "raw_text": "go to the entrance",
+            "recognize_seconds": 0,
+            "tokens": [
+                "go",
+                "to",
+                "the",
+                "entrance"
+            ],
+            "raw_tokens": [
+                "go",
+                "to",
+                "the",
+                "entrance"
+            ]
+        },
+        {
+            "intent": {
+                "name": "Go",
+                "confidence": 1.0
+            },
+            "entities": [
+                {
+                    "entity": "room",
+                    "value": "kitchen",
+                    "raw_value": "kitchen",
+                    "start": 10,
+                    "raw_start": 10,
+                    "end": 17,
+                    "raw_end": 17,
+                    "tokens": [
+                        "kitchen"
+                    ],
+                    "raw_tokens": [
+                        "kitchen"
+                    ]
+                }
+            ],
+            "text": "go to the kitchen",
+            "raw_text": "go to the kitchen",
+            "recognize_seconds": 0,
+            "tokens": [
+                "go",
+                "to",
+                "the",
+                "kitchen"
+            ],
+            "raw_tokens": [
+                "go",
+                "to",
+                "the",
+                "kitchen"
+            ]
+        },
+        {
+            "intent": {
+                "name": "Go",
+                "confidence": 1.0
+            },
+            "entities": [
+                {
+                    "entity": "room",
+                    "value": "living-room",
+                    "raw_value": "living-room",
+                    "start": 10,
+                    "raw_start": 10,
+                    "end": 21,
+                    "raw_end": 21,
+                    "tokens": [
+                        "living-room"
+                    ],
+                    "raw_tokens": [
+                        "living-room"
+                    ]
+                }
+            ],
+            "text": "go to the living-room",
+            "raw_text": "go to the living-room",
+            "recognize_seconds": 0,
+            "tokens": [
+                "go",
+                "to",
+                "the",
+                "living-room"
+            ],
+            "raw_tokens": [
+                "go",
+                "to",
+                "the",
+                "living-room"
+            ]
+        },
+        {
+            "intent": {
+                "name": "Go",
+                "confidence": 1.0
+            },
+            "entities": [],
+            "text": "go to the",
+            "raw_text": "go to the",
+            "recognize_seconds": 0,
+            "tokens": [
+                "go",
+                "to",
+                "the"
+            ],
+            "raw_tokens": [
+                "go",
+                "to",
+                "the"
+            ]
+        }
+    ],
+    "Grabbing": [
+        {
+            "intent": {
+                "name": "Grabbing",
+                "confidence": 1.0
+            },
+            "entities": [
+                {
+                    "entity": "object",
+                    "value": "glass",
+                    "raw_value": "glass",
+                    "start": 9,
+                    "raw_start": 9,
+                    "end": 14,
+                    "raw_end": 14,
+                    "tokens": [
+                        "glass"
+                    ],
+                    "raw_tokens": [
+                        "glass"
+                    ]
+                }
+            ],
+            "text": "grab the glass",
+            "raw_text": "grab the glass",
+            "recognize_seconds": 0,
+            "tokens": [
+                "grab",
+                "the",
+                "glass"
+            ],
+            "raw_tokens": [
+                "grab",
+                "the",
+                "glass"
+            ]
+        },
+        {
+            "intent": {
+                "name": "Grabbing",
+                "confidence": 1.0
+            },
+            "entities": [
+                {
+                    "entity": "object",
+                    "value": "pineapple",
+                    "raw_value": "pineapple",
+                    "start": 9,
+                    "raw_start": 9,
+                    "end": 18,
+                    "raw_end": 18,
+                    "tokens": [
+                        "pineapple"
+                    ],
+                    "raw_tokens": [
+                        "pineapple"
+                    ]
+                }
+            ],
+            "text": "grab the pineapple",
+            "raw_text": "grab the pineapple",
+            "recognize_seconds": 0,
+            "tokens": [
+                "grab",
+                "the",
+                "pineapple"
+            ],
+            "raw_tokens": [
+                "grab",
+                "the",
+                "pineapple"
+            ]
+        },
+        {
+            "intent": {
+                "name": "Grabbing",
+                "confidence": 1.0
+            },
+            "entities": [
+                {
+                    "entity": "object",
+                    "value": "wallet",
+                    "raw_value": "wallet",
+                    "start": 9,
+                    "raw_start": 9,
+                    "end": 15,
+                    "raw_end": 15,
+                    "tokens": [
+                        "wallet"
+                    ],
+                    "raw_tokens": [
+                        "wallet"
+                    ]
+                }
+            ],
+            "text": "grab the wallet",
+            "raw_text": "grab the wallet",
+            "recognize_seconds": 0,
+            "tokens": [
+                "grab",
+                "the",
+                "wallet"
+            ],
+            "raw_tokens": [
+                "grab",
+                "the",
+                "wallet"
+            ]
+        },
+        {
+            "intent": {
+                "name": "Grabbing",
+                "confidence": 1.0
+            },
+            "entities": [
+                {
+                    "entity": "object",
+                    "value": "banana",
+                    "raw_value": "banana",
+                    "start": 9,
+                    "raw_start": 9,
+                    "end": 15,
+                    "raw_end": 15,
+                    "tokens": [
+                        "banana"
+                    ],
+                    "raw_tokens": [
+                        "banana"
+                    ]
+                }
+            ],
+            "text": "grab the banana",
+            "raw_text": "grab the banana",
+            "recognize_seconds": 0,
+            "tokens": [
+                "grab",
+                "the",
+                "banana"
+            ],
+            "raw_tokens": [
+                "grab",
+                "the",
+                "banana"
+            ]
+        },
+        {
+            "intent": {
+                "name": "Grabbing",
+                "confidence": 1.0
+            },
+            "entities": [
+                {
+                    "entity": "object",
+                    "value": "apple",
+                    "raw_value": "apple",
+                    "start": 9,
+                    "raw_start": 9,
+                    "end": 14,
+                    "raw_end": 14,
+                    "tokens": [
+                        "apple"
+                    ],
+                    "raw_tokens": [
+                        "apple"
+                    ]
+                }
+            ],
+            "text": "grab the apple",
+            "raw_text": "grab the apple",
+            "recognize_seconds": 0,
+            "tokens": [
+                "grab",
+                "the",
+                "apple"
+            ],
+            "raw_tokens": [
+                "grab",
+                "the",
+                "apple"
+            ]
+        },
+        {
+            "intent": {
+                "name": "Grabbing",
+                "confidence": 1.0
+            },
+            "entities": [
+                {
+                    "entity": "object",
+                    "value": "box",
+                    "raw_value": "box",
+                    "start": 9,
+                    "raw_start": 9,
+                    "end": 12,
+                    "raw_end": 12,
+                    "tokens": [
+                        "box"
+                    ],
+                    "raw_tokens": [
+                        "box"
+                    ]
+                }
+            ],
+            "text": "grab the box",
+            "raw_text": "grab the box",
+            "recognize_seconds": 0,
+            "tokens": [
+                "grab",
+                "the",
+                "box"
+            ],
+            "raw_tokens": [
+                "grab",
+                "the",
+                "box"
+            ]
+        },
+        {
+            "intent": {
+                "name": "Grabbing",
+                "confidence": 1.0
+            },
+            "entities": [
+                {
+                    "entity": "object",
+                    "value": "bag",
+                    "raw_value": "bag",
+                    "start": 9,
+                    "raw_start": 9,
+                    "end": 12,
+                    "raw_end": 12,
+                    "tokens": [
+                        "bag"
+                    ],
+                    "raw_tokens": [
+                        "bag"
+                    ]
+                }
+            ],
+            "text": "grab the bag",
+            "raw_text": "grab the bag",
+            "recognize_seconds": 0,
+            "tokens": [
+                "grab",
+                "the",
+                "bag"
+            ],
+            "raw_tokens": [
+                "grab",
+                "the",
+                "bag"
+            ]
+        },
+        {
+            "intent": {
+                "name": "Grabbing",
+                "confidence": 1.0
+            },
+            "entities": [
+                {
+                    "entity": "object",
+                    "value": "dish",
+                    "raw_value": "dish",
+                    "start": 9,
+                    "raw_start": 9,
+                    "end": 13,
+                    "raw_end": 13,
+                    "tokens": [
+                        "dish"
+                    ],
+                    "raw_tokens": [
+                        "dish"
+                    ]
+                }
+            ],
+            "text": "grab the dish",
+            "raw_text": "grab the dish",
+            "recognize_seconds": 0,
+            "tokens": [
+                "grab",
+                "the",
+                "dish"
+            ],
+            "raw_tokens": [
+                "grab",
+                "the",
+                "dish"
+            ]
+        },
+        {
+            "intent": {
+                "name": "Grabbing",
+                "confidence": 1.0
+            },
+            "entities": [],
+            "text": "grab the",
+            "raw_text": "grab the",
+            "recognize_seconds": 0,
+            "tokens": [
+                "grab",
+                "the"
+            ],
+            "raw_tokens": [
+                "grab",
+                "the"
+            ]
+        },
+        {
+            "intent": {
+                "name": "Grabbing",
+                "confidence": 1.0
+            },
+            "entities": [
+                {
+                    "entity": "object",
+                    "value": "glass",
+                    "raw_value": "glass",
+                    "start": 11,
+                    "raw_start": 11,
+                    "end": 16,
+                    "raw_end": 16,
+                    "tokens": [
+                        "glass"
+                    ],
+                    "raw_tokens": [
+                        "glass"
+                    ]
+                }
+            ],
+            "text": "pickup the glass",
+            "raw_text": "pickup the glass",
+            "recognize_seconds": 0,
+            "tokens": [
+                "pickup",
+                "the",
+                "glass"
+            ],
+            "raw_tokens": [
+                "pickup",
+                "the",
+                "glass"
+            ]
+        },
+        {
+            "intent": {
+                "name": "Grabbing",
+                "confidence": 1.0
+            },
+            "entities": [
+                {
+                    "entity": "object",
+                    "value": "pineapple",
+                    "raw_value": "pineapple",
+                    "start": 11,
+                    "raw_start": 11,
+                    "end": 20,
+                    "raw_end": 20,
+                    "tokens": [
+                        "pineapple"
+                    ],
+                    "raw_tokens": [
+                        "pineapple"
+                    ]
+                }
+            ],
+            "text": "pickup the pineapple",
+            "raw_text": "pickup the pineapple",
+            "recognize_seconds": 0,
+            "tokens": [
+                "pickup",
+                "the",
+                "pineapple"
+            ],
+            "raw_tokens": [
+                "pickup",
+                "the",
+                "pineapple"
+            ]
+        },
+        {
+            "intent": {
+                "name": "Grabbing",
+                "confidence": 1.0
+            },
+            "entities": [
+                {
+                    "entity": "object",
+                    "value": "wallet",
+                    "raw_value": "wallet",
+                    "start": 11,
+                    "raw_start": 11,
+                    "end": 17,
+                    "raw_end": 17,
+                    "tokens": [
+                        "wallet"
+                    ],
+                    "raw_tokens": [
+                        "wallet"
+                    ]
+                }
+            ],
+            "text": "pickup the wallet",
+            "raw_text": "pickup the wallet",
+            "recognize_seconds": 0,
+            "tokens": [
+                "pickup",
+                "the",
+                "wallet"
+            ],
+            "raw_tokens": [
+                "pickup",
+                "the",
+                "wallet"
+            ]
+        },
+        {
+            "intent": {
+                "name": "Grabbing",
+                "confidence": 1.0
+            },
+            "entities": [
+                {
+                    "entity": "object",
+                    "value": "banana",
+                    "raw_value": "banana",
+                    "start": 11,
+                    "raw_start": 11,
+                    "end": 17,
+                    "raw_end": 17,
+                    "tokens": [
+                        "banana"
+                    ],
+                    "raw_tokens": [
+                        "banana"
+                    ]
+                }
+            ],
+            "text": "pickup the banana",
+            "raw_text": "pickup the banana",
+            "recognize_seconds": 0,
+            "tokens": [
+                "pickup",
+                "the",
+                "banana"
+            ],
+            "raw_tokens": [
+                "pickup",
+                "the",
+                "banana"
+            ]
+        },
+        {
+            "intent": {
+                "name": "Grabbing",
+                "confidence": 1.0
+            },
+            "entities": [
+                {
+                    "entity": "object",
+                    "value": "apple",
+                    "raw_value": "apple",
+                    "start": 11,
+                    "raw_start": 11,
+                    "end": 16,
+                    "raw_end": 16,
+                    "tokens": [
+                        "apple"
+                    ],
+                    "raw_tokens": [
+                        "apple"
+                    ]
+                }
+            ],
+            "text": "pickup the apple",
+            "raw_text": "pickup the apple",
+            "recognize_seconds": 0,
+            "tokens": [
+                "pickup",
+                "the",
+                "apple"
+            ],
+            "raw_tokens": [
+                "pickup",
+                "the",
+                "apple"
+            ]
+        },
+        {
+            "intent": {
+                "name": "Grabbing",
+                "confidence": 1.0
+            },
+            "entities": [
+                {
+                    "entity": "object",
+                    "value": "box",
+                    "raw_value": "box",
+                    "start": 11,
+                    "raw_start": 11,
+                    "end": 14,
+                    "raw_end": 14,
+                    "tokens": [
+                        "box"
+                    ],
+                    "raw_tokens": [
+                        "box"
+                    ]
+                }
+            ],
+            "text": "pickup the box",
+            "raw_text": "pickup the box",
+            "recognize_seconds": 0,
+            "tokens": [
+                "pickup",
+                "the",
+                "box"
+            ],
+            "raw_tokens": [
+                "pickup",
+                "the",
+                "box"
+            ]
+        },
+        {
+            "intent": {
+                "name": "Grabbing",
+                "confidence": 1.0
+            },
+            "entities": [
+                {
+                    "entity": "object",
+                    "value": "bag",
+                    "raw_value": "bag",
+                    "start": 11,
+                    "raw_start": 11,
+                    "end": 14,
+                    "raw_end": 14,
+                    "tokens": [
+                        "bag"
+                    ],
+                    "raw_tokens": [
+                        "bag"
+                    ]
+                }
+            ],
+            "text": "pickup the bag",
+            "raw_text": "pickup the bag",
+            "recognize_seconds": 0,
+            "tokens": [
+                "pickup",
+                "the",
+                "bag"
+            ],
+            "raw_tokens": [
+                "pickup",
+                "the",
+                "bag"
+            ]
+        },
+        {
+            "intent": {
+                "name": "Grabbing",
+                "confidence": 1.0
+            },
+            "entities": [
+                {
+                    "entity": "object",
+                    "value": "dish",
+                    "raw_value": "dish",
+                    "start": 11,
+                    "raw_start": 11,
+                    "end": 15,
+                    "raw_end": 15,
+                    "tokens": [
+                        "dish"
+                    ],
+                    "raw_tokens": [
+                        "dish"
+                    ]
+                }
+            ],
+            "text": "pickup the dish",
+            "raw_text": "pickup the dish",
+            "recognize_seconds": 0,
+            "tokens": [
+                "pickup",
+                "the",
+                "dish"
+            ],
+            "raw_tokens": [
+                "pickup",
+                "the",
+                "dish"
+            ]
+        },
+        {
+            "intent": {
+                "name": "Grabbing",
+                "confidence": 1.0
+            },
+            "entities": [],
+            "text": "pickup the",
+            "raw_text": "pickup the",
+            "recognize_seconds": 0,
+            "tokens": [
+                "pickup",
+                "the"
+            ],
+            "raw_tokens": [
+                "pickup",
+                "the"
+            ]
+        },
+        {
+            "intent": {
+                "name": "Grabbing",
+                "confidence": 1.0
+            },
+            "entities": [
+                {
+                    "entity": "object",
+                    "value": "glass",
+                    "raw_value": "glass",
+                    "start": 10,
+                    "raw_start": 10,
+                    "end": 15,
+                    "raw_end": 15,
+                    "tokens": [
+                        "glass"
+                    ],
+                    "raw_tokens": [
+                        "glass"
+                    ]
+                }
+            ],
+            "text": "pickup my glass",
+            "raw_text": "pickup my glass",
+            "recognize_seconds": 0,
+            "tokens": [
+                "pickup",
+                "my",
+                "glass"
+            ],
+            "raw_tokens": [
+                "pickup",
+                "my",
+                "glass"
+            ]
+        },
+        {
+            "intent": {
+                "name": "Grabbing",
+                "confidence": 1.0
+            },
+            "entities": [
+                {
+                    "entity": "object",
+                    "value": "pineapple",
+                    "raw_value": "pineapple",
+                    "start": 10,
+                    "raw_start": 10,
+                    "end": 19,
+                    "raw_end": 19,
+                    "tokens": [
+                        "pineapple"
+                    ],
+                    "raw_tokens": [
+                        "pineapple"
+                    ]
+                }
+            ],
+            "text": "pickup my pineapple",
+            "raw_text": "pickup my pineapple",
+            "recognize_seconds": 0,
+            "tokens": [
+                "pickup",
+                "my",
+                "pineapple"
+            ],
+            "raw_tokens": [
+                "pickup",
+                "my",
+                "pineapple"
+            ]
+        },
+        {
+            "intent": {
+                "name": "Grabbing",
+                "confidence": 1.0
+            },
+            "entities": [
+                {
+                    "entity": "object",
+                    "value": "wallet",
+                    "raw_value": "wallet",
+                    "start": 10,
+                    "raw_start": 10,
+                    "end": 16,
+                    "raw_end": 16,
+                    "tokens": [
+                        "wallet"
+                    ],
+                    "raw_tokens": [
+                        "wallet"
+                    ]
+                }
+            ],
+            "text": "pickup my wallet",
+            "raw_text": "pickup my wallet",
+            "recognize_seconds": 0,
+            "tokens": [
+                "pickup",
+                "my",
+                "wallet"
+            ],
+            "raw_tokens": [
+                "pickup",
+                "my",
+                "wallet"
+            ]
+        },
+        {
+            "intent": {
+                "name": "Grabbing",
+                "confidence": 1.0
+            },
+            "entities": [
+                {
+                    "entity": "object",
+                    "value": "banana",
+                    "raw_value": "banana",
+                    "start": 10,
+                    "raw_start": 10,
+                    "end": 16,
+                    "raw_end": 16,
+                    "tokens": [
+                        "banana"
+                    ],
+                    "raw_tokens": [
+                        "banana"
+                    ]
+                }
+            ],
+            "text": "pickup my banana",
+            "raw_text": "pickup my banana",
+            "recognize_seconds": 0,
+            "tokens": [
+                "pickup",
+                "my",
+                "banana"
+            ],
+            "raw_tokens": [
+                "pickup",
+                "my",
+                "banana"
+            ]
+        },
+        {
+            "intent": {
+                "name": "Grabbing",
+                "confidence": 1.0
+            },
+            "entities": [
+                {
+                    "entity": "object",
+                    "value": "apple",
+                    "raw_value": "apple",
+                    "start": 10,
+                    "raw_start": 10,
+                    "end": 15,
+                    "raw_end": 15,
+                    "tokens": [
+                        "apple"
+                    ],
+                    "raw_tokens": [
+                        "apple"
+                    ]
+                }
+            ],
+            "text": "pickup my apple",
+            "raw_text": "pickup my apple",
+            "recognize_seconds": 0,
+            "tokens": [
+                "pickup",
+                "my",
+                "apple"
+            ],
+            "raw_tokens": [
+                "pickup",
+                "my",
+                "apple"
+            ]
+        },
+        {
+            "intent": {
+                "name": "Grabbing",
+                "confidence": 1.0
+            },
+            "entities": [
+                {
+                    "entity": "object",
+                    "value": "box",
+                    "raw_value": "box",
+                    "start": 10,
+                    "raw_start": 10,
+                    "end": 13,
+                    "raw_end": 13,
+                    "tokens": [
+                        "box"
+                    ],
+                    "raw_tokens": [
+                        "box"
+                    ]
+                }
+            ],
+            "text": "pickup my box",
+            "raw_text": "pickup my box",
+            "recognize_seconds": 0,
+            "tokens": [
+                "pickup",
+                "my",
+                "box"
+            ],
+            "raw_tokens": [
+                "pickup",
+                "my",
+                "box"
+            ]
+        },
+        {
+            "intent": {
+                "name": "Grabbing",
+                "confidence": 1.0
+            },
+            "entities": [
+                {
+                    "entity": "object",
+                    "value": "bag",
+                    "raw_value": "bag",
+                    "start": 10,
+                    "raw_start": 10,
+                    "end": 13,
+                    "raw_end": 13,
+                    "tokens": [
+                        "bag"
+                    ],
+                    "raw_tokens": [
+                        "bag"
+                    ]
+                }
+            ],
+            "text": "pickup my bag",
+            "raw_text": "pickup my bag",
+            "recognize_seconds": 0,
+            "tokens": [
+                "pickup",
+                "my",
+                "bag"
+            ],
+            "raw_tokens": [
+                "pickup",
+                "my",
+                "bag"
+            ]
+        },
+        {
+            "intent": {
+                "name": "Grabbing",
+                "confidence": 1.0
+            },
+            "entities": [
+                {
+                    "entity": "object",
+                    "value": "dish",
+                    "raw_value": "dish",
+                    "start": 10,
+                    "raw_start": 10,
+                    "end": 14,
+                    "raw_end": 14,
+                    "tokens": [
+                        "dish"
+                    ],
+                    "raw_tokens": [
+                        "dish"
+                    ]
+                }
+            ],
+            "text": "pickup my dish",
+            "raw_text": "pickup my dish",
+            "recognize_seconds": 0,
+            "tokens": [
+                "pickup",
+                "my",
+                "dish"
+            ],
+            "raw_tokens": [
+                "pickup",
+                "my",
+                "dish"
+            ]
+        },
+        {
+            "intent": {
+                "name": "Grabbing",
+                "confidence": 1.0
+            },
+            "entities": [],
+            "text": "pickup my",
+            "raw_text": "pickup my",
+            "recognize_seconds": 0,
+            "tokens": [
+                "pickup",
+                "my"
+            ],
+            "raw_tokens": [
+                "pickup",
+                "my"
+            ]
+        },
+        {
+            "intent": {
+                "name": "Grabbing",
+                "confidence": 1.0
+            },
+            "entities": [
+                {
+                    "entity": "object",
+                    "value": "glass",
+                    "raw_value": "glass",
+                    "start": 8,
+                    "raw_start": 8,
+                    "end": 13,
+                    "raw_end": 13,
+                    "tokens": [
+                        "glass"
+                    ],
+                    "raw_tokens": [
+                        "glass"
+                    ]
+                }
+            ],
+            "text": "take my glass",
+            "raw_text": "take my glass",
+            "recognize_seconds": 0,
+            "tokens": [
+                "take",
+                "my",
+                "glass"
+            ],
+            "raw_tokens": [
+                "take",
+                "my",
+                "glass"
+            ]
+        },
+        {
+            "intent": {
+                "name": "Grabbing",
+                "confidence": 1.0
+            },
+            "entities": [
+                {
+                    "entity": "object",
+                    "value": "pineapple",
+                    "raw_value": "pineapple",
+                    "start": 8,
+                    "raw_start": 8,
+                    "end": 17,
+                    "raw_end": 17,
+                    "tokens": [
+                        "pineapple"
+                    ],
+                    "raw_tokens": [
+                        "pineapple"
+                    ]
+                }
+            ],
+            "text": "take my pineapple",
+            "raw_text": "take my pineapple",
+            "recognize_seconds": 0,
+            "tokens": [
+                "take",
+                "my",
+                "pineapple"
+            ],
+            "raw_tokens": [
+                "take",
+                "my",
+                "pineapple"
+            ]
+        },
+        {
+            "intent": {
+                "name": "Grabbing",
+                "confidence": 1.0
+            },
+            "entities": [
+                {
+                    "entity": "object",
+                    "value": "wallet",
+                    "raw_value": "wallet",
+                    "start": 8,
+                    "raw_start": 8,
+                    "end": 14,
+                    "raw_end": 14,
+                    "tokens": [
+                        "wallet"
+                    ],
+                    "raw_tokens": [
+                        "wallet"
+                    ]
+                }
+            ],
+            "text": "take my wallet",
+            "raw_text": "take my wallet",
+            "recognize_seconds": 0,
+            "tokens": [
+                "take",
+                "my",
+                "wallet"
+            ],
+            "raw_tokens": [
+                "take",
+                "my",
+                "wallet"
+            ]
+        },
+        {
+            "intent": {
+                "name": "Grabbing",
+                "confidence": 1.0
+            },
+            "entities": [
+                {
+                    "entity": "object",
+                    "value": "banana",
+                    "raw_value": "banana",
+                    "start": 8,
+                    "raw_start": 8,
+                    "end": 14,
+                    "raw_end": 14,
+                    "tokens": [
+                        "banana"
+                    ],
+                    "raw_tokens": [
+                        "banana"
+                    ]
+                }
+            ],
+            "text": "take my banana",
+            "raw_text": "take my banana",
+            "recognize_seconds": 0,
+            "tokens": [
+                "take",
+                "my",
+                "banana"
+            ],
+            "raw_tokens": [
+                "take",
+                "my",
+                "banana"
+            ]
+        },
+        {
+            "intent": {
+                "name": "Grabbing",
+                "confidence": 1.0
+            },
+            "entities": [
+                {
+                    "entity": "object",
+                    "value": "apple",
+                    "raw_value": "apple",
+                    "start": 8,
+                    "raw_start": 8,
+                    "end": 13,
+                    "raw_end": 13,
+                    "tokens": [
+                        "apple"
+                    ],
+                    "raw_tokens": [
+                        "apple"
+                    ]
+                }
+            ],
+            "text": "take my apple",
+            "raw_text": "take my apple",
+            "recognize_seconds": 0,
+            "tokens": [
+                "take",
+                "my",
+                "apple"
+            ],
+            "raw_tokens": [
+                "take",
+                "my",
+                "apple"
+            ]
+        },
+        {
+            "intent": {
+                "name": "Grabbing",
+                "confidence": 1.0
+            },
+            "entities": [
+                {
+                    "entity": "object",
+                    "value": "box",
+                    "raw_value": "box",
+                    "start": 8,
+                    "raw_start": 8,
+                    "end": 11,
+                    "raw_end": 11,
+                    "tokens": [
+                        "box"
+                    ],
+                    "raw_tokens": [
+                        "box"
+                    ]
+                }
+            ],
+            "text": "take my box",
+            "raw_text": "take my box",
+            "recognize_seconds": 0,
+            "tokens": [
+                "take",
+                "my",
+                "box"
+            ],
+            "raw_tokens": [
+                "take",
+                "my",
+                "box"
+            ]
+        },
+        {
+            "intent": {
+                "name": "Grabbing",
+                "confidence": 1.0
+            },
+            "entities": [
+                {
+                    "entity": "object",
+                    "value": "bag",
+                    "raw_value": "bag",
+                    "start": 8,
+                    "raw_start": 8,
+                    "end": 11,
+                    "raw_end": 11,
+                    "tokens": [
+                        "bag"
+                    ],
+                    "raw_tokens": [
+                        "bag"
+                    ]
+                }
+            ],
+            "text": "take my bag",
+            "raw_text": "take my bag",
+            "recognize_seconds": 0,
+            "tokens": [
+                "take",
+                "my",
+                "bag"
+            ],
+            "raw_tokens": [
+                "take",
+                "my",
+                "bag"
+            ]
+        },
+        {
+            "intent": {
+                "name": "Grabbing",
+                "confidence": 1.0
+            },
+            "entities": [
+                {
+                    "entity": "object",
+                    "value": "dish",
+                    "raw_value": "dish",
+                    "start": 8,
+                    "raw_start": 8,
+                    "end": 12,
+                    "raw_end": 12,
+                    "tokens": [
+                        "dish"
+                    ],
+                    "raw_tokens": [
+                        "dish"
+                    ]
+                }
+            ],
+            "text": "take my dish",
+            "raw_text": "take my dish",
+            "recognize_seconds": 0,
+            "tokens": [
+                "take",
+                "my",
+                "dish"
+            ],
+            "raw_tokens": [
+                "take",
+                "my",
+                "dish"
+            ]
+        },
+        {
+            "intent": {
+                "name": "Grabbing",
+                "confidence": 1.0
+            },
+            "entities": [],
+            "text": "take my",
+            "raw_text": "take my",
+            "recognize_seconds": 0,
+            "tokens": [
+                "take",
+                "my"
+            ],
+            "raw_tokens": [
+                "take",
+                "my"
+            ]
+        },
+        {
+            "intent": {
+                "name": "Grabbing",
+                "confidence": 1.0
+            },
+            "entities": [
+                {
+                    "entity": "object",
+                    "value": "glass",
+                    "raw_value": "glass",
+                    "start": 9,
+                    "raw_start": 9,
+                    "end": 14,
+                    "raw_end": 14,
+                    "tokens": [
+                        "glass"
+                    ],
+                    "raw_tokens": [
+                        "glass"
+                    ]
+                }
+            ],
+            "text": "take the glass",
+            "raw_text": "take the glass",
+            "recognize_seconds": 0,
+            "tokens": [
+                "take",
+                "the",
+                "glass"
+            ],
+            "raw_tokens": [
+                "take",
+                "the",
+                "glass"
+            ]
+        },
+        {
+            "intent": {
+                "name": "Grabbing",
+                "confidence": 1.0
+            },
+            "entities": [
+                {
+                    "entity": "object",
+                    "value": "pineapple",
+                    "raw_value": "pineapple",
+                    "start": 9,
+                    "raw_start": 9,
+                    "end": 18,
+                    "raw_end": 18,
+                    "tokens": [
+                        "pineapple"
+                    ],
+                    "raw_tokens": [
+                        "pineapple"
+                    ]
+                }
+            ],
+            "text": "take the pineapple",
+            "raw_text": "take the pineapple",
+            "recognize_seconds": 0,
+            "tokens": [
+                "take",
+                "the",
+                "pineapple"
+            ],
+            "raw_tokens": [
+                "take",
+                "the",
+                "pineapple"
+            ]
+        },
+        {
+            "intent": {
+                "name": "Grabbing",
+                "confidence": 1.0
+            },
+            "entities": [
+                {
+                    "entity": "object",
+                    "value": "wallet",
+                    "raw_value": "wallet",
+                    "start": 9,
+                    "raw_start": 9,
+                    "end": 15,
+                    "raw_end": 15,
+                    "tokens": [
+                        "wallet"
+                    ],
+                    "raw_tokens": [
+                        "wallet"
+                    ]
+                }
+            ],
+            "text": "take the wallet",
+            "raw_text": "take the wallet",
+            "recognize_seconds": 0,
+            "tokens": [
+                "take",
+                "the",
+                "wallet"
+            ],
+            "raw_tokens": [
+                "take",
+                "the",
+                "wallet"
+            ]
+        },
+        {
+            "intent": {
+                "name": "Grabbing",
+                "confidence": 1.0
+            },
+            "entities": [
+                {
+                    "entity": "object",
+                    "value": "banana",
+                    "raw_value": "banana",
+                    "start": 9,
+                    "raw_start": 9,
+                    "end": 15,
+                    "raw_end": 15,
+                    "tokens": [
+                        "banana"
+                    ],
+                    "raw_tokens": [
+                        "banana"
+                    ]
+                }
+            ],
+            "text": "take the banana",
+            "raw_text": "take the banana",
+            "recognize_seconds": 0,
+            "tokens": [
+                "take",
+                "the",
+                "banana"
+            ],
+            "raw_tokens": [
+                "take",
+                "the",
+                "banana"
+            ]
+        },
+        {
+            "intent": {
+                "name": "Grabbing",
+                "confidence": 1.0
+            },
+            "entities": [
+                {
+                    "entity": "object",
+                    "value": "apple",
+                    "raw_value": "apple",
+                    "start": 9,
+                    "raw_start": 9,
+                    "end": 14,
+                    "raw_end": 14,
+                    "tokens": [
+                        "apple"
+                    ],
+                    "raw_tokens": [
+                        "apple"
+                    ]
+                }
+            ],
+            "text": "take the apple",
+            "raw_text": "take the apple",
+            "recognize_seconds": 0,
+            "tokens": [
+                "take",
+                "the",
+                "apple"
+            ],
+            "raw_tokens": [
+                "take",
+                "the",
+                "apple"
+            ]
+        },
+        {
+            "intent": {
+                "name": "Grabbing",
+                "confidence": 1.0
+            },
+            "entities": [
+                {
+                    "entity": "object",
+                    "value": "box",
+                    "raw_value": "box",
+                    "start": 9,
+                    "raw_start": 9,
+                    "end": 12,
+                    "raw_end": 12,
+                    "tokens": [
+                        "box"
+                    ],
+                    "raw_tokens": [
+                        "box"
+                    ]
+                }
+            ],
+            "text": "take the box",
+            "raw_text": "take the box",
+            "recognize_seconds": 0,
+            "tokens": [
+                "take",
+                "the",
+                "box"
+            ],
+            "raw_tokens": [
+                "take",
+                "the",
+                "box"
+            ]
+        },
+        {
+            "intent": {
+                "name": "Grabbing",
+                "confidence": 1.0
+            },
+            "entities": [
+                {
+                    "entity": "object",
+                    "value": "bag",
+                    "raw_value": "bag",
+                    "start": 9,
+                    "raw_start": 9,
+                    "end": 12,
+                    "raw_end": 12,
+                    "tokens": [
+                        "bag"
+                    ],
+                    "raw_tokens": [
+                        "bag"
+                    ]
+                }
+            ],
+            "text": "take the bag",
+            "raw_text": "take the bag",
+            "recognize_seconds": 0,
+            "tokens": [
+                "take",
+                "the",
+                "bag"
+            ],
+            "raw_tokens": [
+                "take",
+                "the",
+                "bag"
+            ]
+        },
+        {
+            "intent": {
+                "name": "Grabbing",
+                "confidence": 1.0
+            },
+            "entities": [
+                {
+                    "entity": "object",
+                    "value": "dish",
+                    "raw_value": "dish",
+                    "start": 9,
+                    "raw_start": 9,
+                    "end": 13,
+                    "raw_end": 13,
+                    "tokens": [
+                        "dish"
+                    ],
+                    "raw_tokens": [
+                        "dish"
+                    ]
+                }
+            ],
+            "text": "take the dish",
+            "raw_text": "take the dish",
+            "recognize_seconds": 0,
+            "tokens": [
+                "take",
+                "the",
+                "dish"
+            ],
+            "raw_tokens": [
+                "take",
+                "the",
+                "dish"
+            ]
+        },
+        {
+            "intent": {
+                "name": "Grabbing",
+                "confidence": 1.0
+            },
+            "entities": [],
+            "text": "take the",
+            "raw_text": "take the",
+            "recognize_seconds": 0,
+            "tokens": [
+                "take",
+                "the"
+            ],
+            "raw_tokens": [
+                "take",
+                "the"
+            ]
+        }
+    ],
+    "Yes": [
+        {
+            "intent": {
+                "name": "Yes",
+                "confidence": 1.0
+            },
+            "entities": [],
+            "text": "yes",
+            "raw_text": "yes",
+            "recognize_seconds": 0,
+            "tokens": [
+                "yes"
+            ],
+            "raw_tokens": [
+                "yes"
+            ]
+        },
+        {
+            "intent": {
+                "name": "Yes",
+                "confidence": 1.0
+            },
+            "entities": [],
+            "text": "affirmative",
+            "raw_text": "affirmative",
+            "recognize_seconds": 0,
+            "tokens": [
+                "affirmative"
+            ],
+            "raw_tokens": [
+                "affirmative"
+            ]
+        },
+        {
+            "intent": {
+                "name": "Yes",
+                "confidence": 1.0
+            },
+            "entities": [],
+            "text": "yes do it",
+            "raw_text": "yes do it",
+            "recognize_seconds": 0,
+            "tokens": [
+                "yes",
+                "do",
+                "it"
+            ],
+            "raw_tokens": [
+                "yes",
+                "do",
+                "it"
+            ]
+        },
+        {
+            "intent": {
+                "name": "Yes",
+                "confidence": 1.0
+            },
+            "entities": [],
+            "text": "yes i want",
+            "raw_text": "yes i want",
+            "recognize_seconds": 0,
+            "tokens": [
+                "yes",
+                "i",
+                "want"
+            ],
+            "raw_tokens": [
+                "yes",
+                "i",
+                "want"
+            ]
+        },
+        {
+            "intent": {
+                "name": "Yes",
+                "confidence": 1.0
+            },
+            "entities": [],
+            "text": "yes i need",
+            "raw_text": "yes i need",
+            "recognize_seconds": 0,
+            "tokens": [
+                "yes",
+                "i",
+                "need"
+            ],
+            "raw_tokens": [
+                "yes",
+                "i",
+                "need"
+            ]
+        },
+        {
+            "intent": {
+                "name": "Yes",
+                "confidence": 1.0
+            },
+            "entities": [],
+            "text": "yes i would like",
+            "raw_text": "yes i would like",
+            "recognize_seconds": 0,
+            "tokens": [
+                "yes",
+                "i",
+                "would",
+                "like"
+            ],
+            "raw_tokens": [
+                "yes",
+                "i",
+                "would",
+                "like"
+            ]
+        }
+    ],
+    "No": [
+        {
+            "intent": {
+                "name": "No",
+                "confidence": 1.0
+            },
+            "entities": [],
+            "text": "no",
+            "raw_text": "no",
+            "recognize_seconds": 0,
+            "tokens": [
+                "no"
+            ],
+            "raw_tokens": [
+                "no"
+            ]
+        },
+        {
+            "intent": {
+                "name": "No",
+                "confidence": 1.0
+            },
+            "entities": [],
+            "text": "negative",
+            "raw_text": "negative",
+            "recognize_seconds": 0,
+            "tokens": [
+                "negative"
+            ],
+            "raw_tokens": [
+                "negative"
+            ]
+        },
+        {
+            "intent": {
+                "name": "No",
+                "confidence": 1.0
+            },
+            "entities": [],
+            "text": "no don't",
+            "raw_text": "no don't",
+            "recognize_seconds": 0,
+            "tokens": [
+                "no",
+                "don't"
+            ],
+            "raw_tokens": [
+                "no",
+                "don't"
+            ]
+        },
+        {
+            "intent": {
+                "name": "No",
+                "confidence": 1.0
+            },
+            "entities": [],
+            "text": "nope",
+            "raw_text": "nope",
+            "recognize_seconds": 0,
+            "tokens": [
+                "nope"
+            ],
+            "raw_tokens": [
+                "nope"
+            ]
+        },
+        {
+            "intent": {
+                "name": "No",
+                "confidence": 1.0
+            },
+            "entities": [],
+            "text": "no i don't want",
+            "raw_text": "no i don't want",
+            "recognize_seconds": 0,
+            "tokens": [
+                "no",
+                "i",
+                "don't",
+                "want"
+            ],
+            "raw_tokens": [
+                "no",
+                "i",
+                "don't",
+                "want"
+            ]
+        },
+        {
+            "intent": {
+                "name": "No",
+                "confidence": 1.0
+            },
+            "entities": [],
+            "text": "no i don't need",
+            "raw_text": "no i don't need",
+            "recognize_seconds": 0,
+            "tokens": [
+                "no",
+                "i",
+                "don't",
+                "need"
+            ],
+            "raw_tokens": [
+                "no",
+                "i",
+                "don't",
+                "need"
+            ]
+        }
+    ],
+    "Wake": [
+        {
+            "intent": {
+                "name": "Wake",
+                "confidence": 1.0
+            },
+            "entities": [],
+            "text": "okay rhasspy",
+            "raw_text": "okay rhasspy",
+            "recognize_seconds": 0,
+            "tokens": [
+                "okay",
+                "rhasspy"
+            ],
+            "raw_tokens": [
+                "okay",
+                "rhasspy"
+            ]
+        },
+        {
+            "intent": {
+                "name": "Wake",
+                "confidence": 1.0
+            },
+            "entities": [],
+            "text": "okay sara",
+            "raw_text": "okay sara",
+            "recognize_seconds": 0,
+            "tokens": [
+                "okay",
+                "sara"
+            ],
+            "raw_tokens": [
+                "okay",
+                "sara"
+            ]
+        },
+        {
+            "intent": {
+                "name": "Wake",
+                "confidence": 1.0
+            },
+            "entities": [],
+            "text": "hey sara",
+            "raw_text": "hey sara",
+            "recognize_seconds": 0,
+            "tokens": [
+                "hey",
+                "sara"
+            ],
+            "raw_tokens": [
+                "hey",
+                "sara"
+            ]
+        },
+        {
+            "intent": {
+                "name": "Wake",
+                "confidence": 1.0
+            },
+            "entities": [],
+            "text": "snowboy",
+            "raw_text": "snowboy",
+            "recognize_seconds": 0,
+            "tokens": [
+                "snowboy"
+            ],
+            "raw_tokens": [
+                "snowboy"
+            ]
+        }
+    ],
+    "GetTime": [
+        {
+            "intent": {
+                "name": "GetTime",
+                "confidence": 1.0
+            },
+            "entities": [],
+            "text": "what time is it",
+            "raw_text": "what time is it",
+            "recognize_seconds": 0,
+            "tokens": [
+                "what",
+                "time",
+                "is",
+                "it"
+            ],
+            "raw_tokens": [
+                "what",
+                "time",
+                "is",
+                "it"
+            ]
+        },
+        {
+            "intent": {
+                "name": "GetTime",
+                "confidence": 1.0
+            },
+            "entities": [],
+            "text": "tell me the time",
+            "raw_text": "tell me the time",
+            "recognize_seconds": 0,
+            "tokens": [
+                "tell",
+                "me",
+                "the",
+                "time"
+            ],
+            "raw_tokens": [
+                "tell",
+                "me",
+                "the",
+                "time"
+            ]
+        }
+    ],
+    "GetTemperature": [
+        {
+            "intent": {
+                "name": "GetTemperature",
+                "confidence": 1.0
+            },
+            "entities": [],
+            "text": "whats the temperature",
+            "raw_text": "whats the temperature",
+            "recognize_seconds": 0,
+            "tokens": [
+                "whats",
+                "the",
+                "temperature"
+            ],
+            "raw_tokens": [
+                "whats",
+                "the",
+                "temperature"
+            ]
+        },
+        {
+            "intent": {
+                "name": "GetTemperature",
+                "confidence": 1.0
+            },
+            "entities": [],
+            "text": "how hot is it",
+            "raw_text": "how hot is it",
+            "recognize_seconds": 0,
+            "tokens": [
+                "how",
+                "hot",
+                "is",
+                "it"
+            ],
+            "raw_tokens": [
+                "how",
+                "hot",
+                "is",
+                "it"
+            ]
+        },
+        {
+            "intent": {
+                "name": "GetTemperature",
+                "confidence": 1.0
+            },
+            "entities": [],
+            "text": "how cold is it",
+            "raw_text": "how cold is it",
+            "recognize_seconds": 0,
+            "tokens": [
+                "how",
+                "cold",
+                "is",
+                "it"
+            ],
+            "raw_tokens": [
+                "how",
+                "cold",
+                "is",
+                "it"
+            ]
+        }
+    ],
+    "GetGarageState": [
+        {
+            "intent": {
+                "name": "GetGarageState",
+                "confidence": 1.0
+            },
+            "entities": [],
+            "text": "is the garage door open",
+            "raw_text": "is the garage door open",
+            "recognize_seconds": 0,
+            "tokens": [
+                "is",
+                "the",
+                "garage",
+                "door",
+                "open"
+            ],
+            "raw_tokens": [
+                "is",
+                "the",
+                "garage",
+                "door",
+                "open"
+            ]
+        },
+        {
+            "intent": {
+                "name": "GetGarageState",
+                "confidence": 1.0
+            },
+            "entities": [],
+            "text": "is the garage door closed",
+            "raw_text": "is the garage door closed",
+            "recognize_seconds": 0,
+            "tokens": [
+                "is",
+                "the",
+                "garage",
+                "door",
+                "closed"
+            ],
+            "raw_tokens": [
+                "is",
+                "the",
+                "garage",
+                "door",
+                "closed"
+            ]
+        }
+    ],
+    "ChangeLightState": [
+        {
+            "intent": {
+                "name": "ChangeLightState",
+                "confidence": 1.0
+            },
+            "entities": [
+                {
+                    "entity": "state",
+                    "value": "on",
+                    "raw_value": "on",
+                    "start": 5,
+                    "raw_start": 5,
+                    "end": 7,
+                    "raw_end": 7,
+                    "tokens": [
+                        "on"
+                    ],
+                    "raw_tokens": [
+                        "on"
+                    ]
+                },
+                {
+                    "entity": "name",
+                    "value": "living room lamp",
+                    "raw_value": "living room lamp",
+                    "start": 12,
+                    "raw_start": 12,
+                    "end": 28,
+                    "raw_end": 28,
+                    "tokens": [
+                        "living",
+                        "room",
+                        "lamp"
+                    ],
+                    "raw_tokens": [
+                        "living",
+                        "room",
+                        "lamp"
+                    ]
+                }
+            ],
+            "text": "turn on the living room lamp",
+            "raw_text": "turn on the living room lamp",
+            "recognize_seconds": 0,
+            "tokens": [
+                "turn",
+                "on",
+                "the",
+                "living",
+                "room",
+                "lamp"
+            ],
+            "raw_tokens": [
+                "turn",
+                "on",
+                "the",
+                "living",
+                "room",
+                "lamp"
+            ]
+        },
+        {
+            "intent": {
+                "name": "ChangeLightState",
+                "confidence": 1.0
+            },
+            "entities": [
+                {
+                    "entity": "state",
+                    "value": "on",
+                    "raw_value": "on",
+                    "start": 5,
+                    "raw_start": 5,
+                    "end": 7,
+                    "raw_end": 7,
+                    "tokens": [
+                        "on"
+                    ],
+                    "raw_tokens": [
+                        "on"
+                    ]
+                },
+                {
+                    "entity": "name",
+                    "value": "garage light",
+                    "raw_value": "garage light",
+                    "start": 12,
+                    "raw_start": 12,
+                    "end": 24,
+                    "raw_end": 24,
+                    "tokens": [
+                        "garage",
+                        "light"
+                    ],
+                    "raw_tokens": [
+                        "garage",
+                        "light"
+                    ]
+                }
+            ],
+            "text": "turn on the garage light",
+            "raw_text": "turn on the garage light",
+            "recognize_seconds": 0,
+            "tokens": [
+                "turn",
+                "on",
+                "the",
+                "garage",
+                "light"
+            ],
+            "raw_tokens": [
+                "turn",
+                "on",
+                "the",
+                "garage",
+                "light"
+            ]
+        },
+        {
+            "intent": {
+                "name": "ChangeLightState",
+                "confidence": 1.0
+            },
+            "entities": [
+                {
+                    "entity": "state",
+                    "value": "on",
+                    "raw_value": "on",
+                    "start": 5,
+                    "raw_start": 5,
+                    "end": 7,
+                    "raw_end": 7,
+                    "tokens": [
+                        "on"
+                    ],
+                    "raw_tokens": [
+                        "on"
+                    ]
+                },
+                {
+                    "entity": "name",
+                    "value": "bedroom light",
+                    "raw_value": "bedroom light",
+                    "start": 12,
+                    "raw_start": 12,
+                    "end": 25,
+                    "raw_end": 25,
+                    "tokens": [
+                        "bedroom",
+                        "light"
+                    ],
+                    "raw_tokens": [
+                        "bedroom",
+                        "light"
+                    ]
+                }
+            ],
+            "text": "turn on the bedroom light",
+            "raw_text": "turn on the bedroom light",
+            "recognize_seconds": 0,
+            "tokens": [
+                "turn",
+                "on",
+                "the",
+                "bedroom",
+                "light"
+            ],
+            "raw_tokens": [
+                "turn",
+                "on",
+                "the",
+                "bedroom",
+                "light"
+            ]
+        },
+        {
+            "intent": {
+                "name": "ChangeLightState",
+                "confidence": 1.0
+            },
+            "entities": [
+                {
+                    "entity": "state",
+                    "value": "on",
+                    "raw_value": "on",
+                    "start": 5,
+                    "raw_start": 5,
+                    "end": 7,
+                    "raw_end": 7,
+                    "tokens": [
+                        "on"
+                    ],
+                    "raw_tokens": [
+                        "on"
+                    ]
+                },
+                {
+                    "entity": "name",
+                    "value": "living room lamp",
+                    "raw_value": "living room lamp",
+                    "start": 8,
+                    "raw_start": 8,
+                    "end": 24,
+                    "raw_end": 24,
+                    "tokens": [
+                        "living",
+                        "room",
+                        "lamp"
+                    ],
+                    "raw_tokens": [
+                        "living",
+                        "room",
+                        "lamp"
+                    ]
+                }
+            ],
+            "text": "turn on living room lamp",
+            "raw_text": "turn on living room lamp",
+            "recognize_seconds": 0,
+            "tokens": [
+                "turn",
+                "on",
+                "living",
+                "room",
+                "lamp"
+            ],
+            "raw_tokens": [
+                "turn",
+                "on",
+                "living",
+                "room",
+                "lamp"
+            ]
+        },
+        {
+            "intent": {
+                "name": "ChangeLightState",
+                "confidence": 1.0
+            },
+            "entities": [
+                {
+                    "entity": "state",
+                    "value": "on",
+                    "raw_value": "on",
+                    "start": 5,
+                    "raw_start": 5,
+                    "end": 7,
+                    "raw_end": 7,
+                    "tokens": [
+                        "on"
+                    ],
+                    "raw_tokens": [
+                        "on"
+                    ]
+                },
+                {
+                    "entity": "name",
+                    "value": "garage light",
+                    "raw_value": "garage light",
+                    "start": 8,
+                    "raw_start": 8,
+                    "end": 20,
+                    "raw_end": 20,
+                    "tokens": [
+                        "garage",
+                        "light"
+                    ],
+                    "raw_tokens": [
+                        "garage",
+                        "light"
+                    ]
+                }
+            ],
+            "text": "turn on garage light",
+            "raw_text": "turn on garage light",
+            "recognize_seconds": 0,
+            "tokens": [
+                "turn",
+                "on",
+                "garage",
+                "light"
+            ],
+            "raw_tokens": [
+                "turn",
+                "on",
+                "garage",
+                "light"
+            ]
+        },
+        {
+            "intent": {
+                "name": "ChangeLightState",
+                "confidence": 1.0
+            },
+            "entities": [
+                {
+                    "entity": "state",
+                    "value": "on",
+                    "raw_value": "on",
+                    "start": 5,
+                    "raw_start": 5,
+                    "end": 7,
+                    "raw_end": 7,
+                    "tokens": [
+                        "on"
+                    ],
+                    "raw_tokens": [
+                        "on"
+                    ]
+                },
+                {
+                    "entity": "name",
+                    "value": "bedroom light",
+                    "raw_value": "bedroom light",
+                    "start": 8,
+                    "raw_start": 8,
+                    "end": 21,
+                    "raw_end": 21,
+                    "tokens": [
+                        "bedroom",
+                        "light"
+                    ],
+                    "raw_tokens": [
+                        "bedroom",
+                        "light"
+                    ]
+                }
+            ],
+            "text": "turn on bedroom light",
+            "raw_text": "turn on bedroom light",
+            "recognize_seconds": 0,
+            "tokens": [
+                "turn",
+                "on",
+                "bedroom",
+                "light"
+            ],
+            "raw_tokens": [
+                "turn",
+                "on",
+                "bedroom",
+                "light"
+            ]
+        },
+        {
+            "intent": {
+                "name": "ChangeLightState",
+                "confidence": 1.0
+            },
+            "entities": [
+                {
+                    "entity": "state",
+                    "value": "off",
+                    "raw_value": "off",
+                    "start": 5,
+                    "raw_start": 5,
+                    "end": 8,
+                    "raw_end": 8,
+                    "tokens": [
+                        "off"
+                    ],
+                    "raw_tokens": [
+                        "off"
+                    ]
+                },
+                {
+                    "entity": "name",
+                    "value": "living room lamp",
+                    "raw_value": "living room lamp",
+                    "start": 13,
+                    "raw_start": 13,
+                    "end": 29,
+                    "raw_end": 29,
+                    "tokens": [
+                        "living",
+                        "room",
+                        "lamp"
+                    ],
+                    "raw_tokens": [
+                        "living",
+                        "room",
+                        "lamp"
+                    ]
+                }
+            ],
+            "text": "turn off the living room lamp",
+            "raw_text": "turn off the living room lamp",
+            "recognize_seconds": 0,
+            "tokens": [
+                "turn",
+                "off",
+                "the",
+                "living",
+                "room",
+                "lamp"
+            ],
+            "raw_tokens": [
+                "turn",
+                "off",
+                "the",
+                "living",
+                "room",
+                "lamp"
+            ]
+        },
+        {
+            "intent": {
+                "name": "ChangeLightState",
+                "confidence": 1.0
+            },
+            "entities": [
+                {
+                    "entity": "state",
+                    "value": "off",
+                    "raw_value": "off",
+                    "start": 5,
+                    "raw_start": 5,
+                    "end": 8,
+                    "raw_end": 8,
+                    "tokens": [
+                        "off"
+                    ],
+                    "raw_tokens": [
+                        "off"
+                    ]
+                },
+                {
+                    "entity": "name",
+                    "value": "garage light",
+                    "raw_value": "garage light",
+                    "start": 13,
+                    "raw_start": 13,
+                    "end": 25,
+                    "raw_end": 25,
+                    "tokens": [
+                        "garage",
+                        "light"
+                    ],
+                    "raw_tokens": [
+                        "garage",
+                        "light"
+                    ]
+                }
+            ],
+            "text": "turn off the garage light",
+            "raw_text": "turn off the garage light",
+            "recognize_seconds": 0,
+            "tokens": [
+                "turn",
+                "off",
+                "the",
+                "garage",
+                "light"
+            ],
+            "raw_tokens": [
+                "turn",
+                "off",
+                "the",
+                "garage",
+                "light"
+            ]
+        },
+        {
+            "intent": {
+                "name": "ChangeLightState",
+                "confidence": 1.0
+            },
+            "entities": [
+                {
+                    "entity": "state",
+                    "value": "off",
+                    "raw_value": "off",
+                    "start": 5,
+                    "raw_start": 5,
+                    "end": 8,
+                    "raw_end": 8,
+                    "tokens": [
+                        "off"
+                    ],
+                    "raw_tokens": [
+                        "off"
+                    ]
+                },
+                {
+                    "entity": "name",
+                    "value": "bedroom light",
+                    "raw_value": "bedroom light",
+                    "start": 13,
+                    "raw_start": 13,
+                    "end": 26,
+                    "raw_end": 26,
+                    "tokens": [
+                        "bedroom",
+                        "light"
+                    ],
+                    "raw_tokens": [
+                        "bedroom",
+                        "light"
+                    ]
+                }
+            ],
+            "text": "turn off the bedroom light",
+            "raw_text": "turn off the bedroom light",
+            "recognize_seconds": 0,
+            "tokens": [
+                "turn",
+                "off",
+                "the",
+                "bedroom",
+                "light"
+            ],
+            "raw_tokens": [
+                "turn",
+                "off",
+                "the",
+                "bedroom",
+                "light"
+            ]
+        },
+        {
+            "intent": {
+                "name": "ChangeLightState",
+                "confidence": 1.0
+            },
+            "entities": [
+                {
+                    "entity": "state",
+                    "value": "off",
+                    "raw_value": "off",
+                    "start": 5,
+                    "raw_start": 5,
+                    "end": 8,
+                    "raw_end": 8,
+                    "tokens": [
+                        "off"
+                    ],
+                    "raw_tokens": [
+                        "off"
+                    ]
+                },
+                {
+                    "entity": "name",
+                    "value": "living room lamp",
+                    "raw_value": "living room lamp",
+                    "start": 9,
+                    "raw_start": 9,
+                    "end": 25,
+                    "raw_end": 25,
+                    "tokens": [
+                        "living",
+                        "room",
+                        "lamp"
+                    ],
+                    "raw_tokens": [
+                        "living",
+                        "room",
+                        "lamp"
+                    ]
+                }
+            ],
+            "text": "turn off living room lamp",
+            "raw_text": "turn off living room lamp",
+            "recognize_seconds": 0,
+            "tokens": [
+                "turn",
+                "off",
+                "living",
+                "room",
+                "lamp"
+            ],
+            "raw_tokens": [
+                "turn",
+                "off",
+                "living",
+                "room",
+                "lamp"
+            ]
+        },
+        {
+            "intent": {
+                "name": "ChangeLightState",
+                "confidence": 1.0
+            },
+            "entities": [
+                {
+                    "entity": "state",
+                    "value": "off",
+                    "raw_value": "off",
+                    "start": 5,
+                    "raw_start": 5,
+                    "end": 8,
+                    "raw_end": 8,
+                    "tokens": [
+                        "off"
+                    ],
+                    "raw_tokens": [
+                        "off"
+                    ]
+                },
+                {
+                    "entity": "name",
+                    "value": "garage light",
+                    "raw_value": "garage light",
+                    "start": 9,
+                    "raw_start": 9,
+                    "end": 21,
+                    "raw_end": 21,
+                    "tokens": [
+                        "garage",
+                        "light"
+                    ],
+                    "raw_tokens": [
+                        "garage",
+                        "light"
+                    ]
+                }
+            ],
+            "text": "turn off garage light",
+            "raw_text": "turn off garage light",
+            "recognize_seconds": 0,
+            "tokens": [
+                "turn",
+                "off",
+                "garage",
+                "light"
+            ],
+            "raw_tokens": [
+                "turn",
+                "off",
+                "garage",
+                "light"
+            ]
+        },
+        {
+            "intent": {
+                "name": "ChangeLightState",
+                "confidence": 1.0
+            },
+            "entities": [
+                {
+                    "entity": "state",
+                    "value": "off",
+                    "raw_value": "off",
+                    "start": 5,
+                    "raw_start": 5,
+                    "end": 8,
+                    "raw_end": 8,
+                    "tokens": [
+                        "off"
+                    ],
+                    "raw_tokens": [
+                        "off"
+                    ]
+                },
+                {
+                    "entity": "name",
+                    "value": "bedroom light",
+                    "raw_value": "bedroom light",
+                    "start": 9,
+                    "raw_start": 9,
+                    "end": 22,
+                    "raw_end": 22,
+                    "tokens": [
+                        "bedroom",
+                        "light"
+                    ],
+                    "raw_tokens": [
+                        "bedroom",
+                        "light"
+                    ]
+                }
+            ],
+            "text": "turn off bedroom light",
+            "raw_text": "turn off bedroom light",
+            "recognize_seconds": 0,
+            "tokens": [
+                "turn",
+                "off",
+                "bedroom",
+                "light"
+            ],
+            "raw_tokens": [
+                "turn",
+                "off",
+                "bedroom",
+                "light"
+            ]
+        },
+        {
+            "intent": {
+                "name": "ChangeLightState",
+                "confidence": 1.0
+            },
+            "entities": [
+                {
+                    "entity": "name",
+                    "value": "living room lamp",
+                    "raw_value": "living room lamp",
+                    "start": 9,
+                    "raw_start": 9,
+                    "end": 25,
+                    "raw_end": 25,
+                    "tokens": [
+                        "living",
+                        "room",
+                        "lamp"
+                    ],
+                    "raw_tokens": [
+                        "living",
+                        "room",
+                        "lamp"
+                    ]
+                },
+                {
+                    "entity": "state",
+                    "value": "on",
+                    "raw_value": "on",
+                    "start": 26,
+                    "raw_start": 26,
+                    "end": 28,
+                    "raw_end": 28,
+                    "tokens": [
+                        "on"
+                    ],
+                    "raw_tokens": [
+                        "on"
+                    ]
+                }
+            ],
+            "text": "turn the living room lamp on",
+            "raw_text": "turn the living room lamp on",
+            "recognize_seconds": 0,
+            "tokens": [
+                "turn",
+                "the",
+                "living",
+                "room",
+                "lamp",
+                "on"
+            ],
+            "raw_tokens": [
+                "turn",
+                "the",
+                "living",
+                "room",
+                "lamp",
+                "on"
+            ]
+        },
+        {
+            "intent": {
+                "name": "ChangeLightState",
+                "confidence": 1.0
+            },
+            "entities": [
+                {
+                    "entity": "name",
+                    "value": "living room lamp",
+                    "raw_value": "living room lamp",
+                    "start": 9,
+                    "raw_start": 9,
+                    "end": 25,
+                    "raw_end": 25,
+                    "tokens": [
+                        "living",
+                        "room",
+                        "lamp"
+                    ],
+                    "raw_tokens": [
+                        "living",
+                        "room",
+                        "lamp"
+                    ]
+                },
+                {
+                    "entity": "state",
+                    "value": "off",
+                    "raw_value": "off",
+                    "start": 26,
+                    "raw_start": 26,
+                    "end": 29,
+                    "raw_end": 29,
+                    "tokens": [
+                        "off"
+                    ],
+                    "raw_tokens": [
+                        "off"
+                    ]
+                }
+            ],
+            "text": "turn the living room lamp off",
+            "raw_text": "turn the living room lamp off",
+            "recognize_seconds": 0,
+            "tokens": [
+                "turn",
+                "the",
+                "living",
+                "room",
+                "lamp",
+                "off"
+            ],
+            "raw_tokens": [
+                "turn",
+                "the",
+                "living",
+                "room",
+                "lamp",
+                "off"
+            ]
+        },
+        {
+            "intent": {
+                "name": "ChangeLightState",
+                "confidence": 1.0
+            },
+            "entities": [
+                {
+                    "entity": "name",
+                    "value": "garage light",
+                    "raw_value": "garage light",
+                    "start": 9,
+                    "raw_start": 9,
+                    "end": 21,
+                    "raw_end": 21,
+                    "tokens": [
+                        "garage",
+                        "light"
+                    ],
+                    "raw_tokens": [
+                        "garage",
+                        "light"
+                    ]
+                },
+                {
+                    "entity": "state",
+                    "value": "on",
+                    "raw_value": "on",
+                    "start": 22,
+                    "raw_start": 22,
+                    "end": 24,
+                    "raw_end": 24,
+                    "tokens": [
+                        "on"
+                    ],
+                    "raw_tokens": [
+                        "on"
+                    ]
+                }
+            ],
+            "text": "turn the garage light on",
+            "raw_text": "turn the garage light on",
+            "recognize_seconds": 0,
+            "tokens": [
+                "turn",
+                "the",
+                "garage",
+                "light",
+                "on"
+            ],
+            "raw_tokens": [
+                "turn",
+                "the",
+                "garage",
+                "light",
+                "on"
+            ]
+        },
+        {
+            "intent": {
+                "name": "ChangeLightState",
+                "confidence": 1.0
+            },
+            "entities": [
+                {
+                    "entity": "name",
+                    "value": "garage light",
+                    "raw_value": "garage light",
+                    "start": 9,
+                    "raw_start": 9,
+                    "end": 21,
+                    "raw_end": 21,
+                    "tokens": [
+                        "garage",
+                        "light"
+                    ],
+                    "raw_tokens": [
+                        "garage",
+                        "light"
+                    ]
+                },
+                {
+                    "entity": "state",
+                    "value": "off",
+                    "raw_value": "off",
+                    "start": 22,
+                    "raw_start": 22,
+                    "end": 25,
+                    "raw_end": 25,
+                    "tokens": [
+                        "off"
+                    ],
+                    "raw_tokens": [
+                        "off"
+                    ]
+                }
+            ],
+            "text": "turn the garage light off",
+            "raw_text": "turn the garage light off",
+            "recognize_seconds": 0,
+            "tokens": [
+                "turn",
+                "the",
+                "garage",
+                "light",
+                "off"
+            ],
+            "raw_tokens": [
+                "turn",
+                "the",
+                "garage",
+                "light",
+                "off"
+            ]
+        },
+        {
+            "intent": {
+                "name": "ChangeLightState",
+                "confidence": 1.0
+            },
+            "entities": [
+                {
+                    "entity": "name",
+                    "value": "bedroom light",
+                    "raw_value": "bedroom light",
+                    "start": 9,
+                    "raw_start": 9,
+                    "end": 22,
+                    "raw_end": 22,
+                    "tokens": [
+                        "bedroom",
+                        "light"
+                    ],
+                    "raw_tokens": [
+                        "bedroom",
+                        "light"
+                    ]
+                },
+                {
+                    "entity": "state",
+                    "value": "on",
+                    "raw_value": "on",
+                    "start": 23,
+                    "raw_start": 23,
+                    "end": 25,
+                    "raw_end": 25,
+                    "tokens": [
+                        "on"
+                    ],
+                    "raw_tokens": [
+                        "on"
+                    ]
+                }
+            ],
+            "text": "turn the bedroom light on",
+            "raw_text": "turn the bedroom light on",
+            "recognize_seconds": 0,
+            "tokens": [
+                "turn",
+                "the",
+                "bedroom",
+                "light",
+                "on"
+            ],
+            "raw_tokens": [
+                "turn",
+                "the",
+                "bedroom",
+                "light",
+                "on"
+            ]
+        },
+        {
+            "intent": {
+                "name": "ChangeLightState",
+                "confidence": 1.0
+            },
+            "entities": [
+                {
+                    "entity": "name",
+                    "value": "bedroom light",
+                    "raw_value": "bedroom light",
+                    "start": 9,
+                    "raw_start": 9,
+                    "end": 22,
+                    "raw_end": 22,
+                    "tokens": [
+                        "bedroom",
+                        "light"
+                    ],
+                    "raw_tokens": [
+                        "bedroom",
+                        "light"
+                    ]
+                },
+                {
+                    "entity": "state",
+                    "value": "off",
+                    "raw_value": "off",
+                    "start": 23,
+                    "raw_start": 23,
+                    "end": 26,
+                    "raw_end": 26,
+                    "tokens": [
+                        "off"
+                    ],
+                    "raw_tokens": [
+                        "off"
+                    ]
+                }
+            ],
+            "text": "turn the bedroom light off",
+            "raw_text": "turn the bedroom light off",
+            "recognize_seconds": 0,
+            "tokens": [
+                "turn",
+                "the",
+                "bedroom",
+                "light",
+                "off"
+            ],
+            "raw_tokens": [
+                "turn",
+                "the",
+                "bedroom",
+                "light",
+                "off"
+            ]
+        },
+        {
+            "intent": {
+                "name": "ChangeLightState",
+                "confidence": 1.0
+            },
+            "entities": [
+                {
+                    "entity": "name",
+                    "value": "living room lamp",
+                    "raw_value": "living room lamp",
+                    "start": 5,
+                    "raw_start": 5,
+                    "end": 21,
+                    "raw_end": 21,
+                    "tokens": [
+                        "living",
+                        "room",
+                        "lamp"
+                    ],
+                    "raw_tokens": [
+                        "living",
+                        "room",
+                        "lamp"
+                    ]
+                },
+                {
+                    "entity": "state",
+                    "value": "on",
+                    "raw_value": "on",
+                    "start": 22,
+                    "raw_start": 22,
+                    "end": 24,
+                    "raw_end": 24,
+                    "tokens": [
+                        "on"
+                    ],
+                    "raw_tokens": [
+                        "on"
+                    ]
+                }
+            ],
+            "text": "turn living room lamp on",
+            "raw_text": "turn living room lamp on",
+            "recognize_seconds": 0,
+            "tokens": [
+                "turn",
+                "living",
+                "room",
+                "lamp",
+                "on"
+            ],
+            "raw_tokens": [
+                "turn",
+                "living",
+                "room",
+                "lamp",
+                "on"
+            ]
+        },
+        {
+            "intent": {
+                "name": "ChangeLightState",
+                "confidence": 1.0
+            },
+            "entities": [
+                {
+                    "entity": "name",
+                    "value": "living room lamp",
+                    "raw_value": "living room lamp",
+                    "start": 5,
+                    "raw_start": 5,
+                    "end": 21,
+                    "raw_end": 21,
+                    "tokens": [
+                        "living",
+                        "room",
+                        "lamp"
+                    ],
+                    "raw_tokens": [
+                        "living",
+                        "room",
+                        "lamp"
+                    ]
+                },
+                {
+                    "entity": "state",
+                    "value": "off",
+                    "raw_value": "off",
+                    "start": 22,
+                    "raw_start": 22,
+                    "end": 25,
+                    "raw_end": 25,
+                    "tokens": [
+                        "off"
+                    ],
+                    "raw_tokens": [
+                        "off"
+                    ]
+                }
+            ],
+            "text": "turn living room lamp off",
+            "raw_text": "turn living room lamp off",
+            "recognize_seconds": 0,
+            "tokens": [
+                "turn",
+                "living",
+                "room",
+                "lamp",
+                "off"
+            ],
+            "raw_tokens": [
+                "turn",
+                "living",
+                "room",
+                "lamp",
+                "off"
+            ]
+        },
+        {
+            "intent": {
+                "name": "ChangeLightState",
+                "confidence": 1.0
+            },
+            "entities": [
+                {
+                    "entity": "name",
+                    "value": "garage light",
+                    "raw_value": "garage light",
+                    "start": 5,
+                    "raw_start": 5,
+                    "end": 17,
+                    "raw_end": 17,
+                    "tokens": [
+                        "garage",
+                        "light"
+                    ],
+                    "raw_tokens": [
+                        "garage",
+                        "light"
+                    ]
+                },
+                {
+                    "entity": "state",
+                    "value": "on",
+                    "raw_value": "on",
+                    "start": 18,
+                    "raw_start": 18,
+                    "end": 20,
+                    "raw_end": 20,
+                    "tokens": [
+                        "on"
+                    ],
+                    "raw_tokens": [
+                        "on"
+                    ]
+                }
+            ],
+            "text": "turn garage light on",
+            "raw_text": "turn garage light on",
+            "recognize_seconds": 0,
+            "tokens": [
+                "turn",
+                "garage",
+                "light",
+                "on"
+            ],
+            "raw_tokens": [
+                "turn",
+                "garage",
+                "light",
+                "on"
+            ]
+        },
+        {
+            "intent": {
+                "name": "ChangeLightState",
+                "confidence": 1.0
+            },
+            "entities": [
+                {
+                    "entity": "name",
+                    "value": "garage light",
+                    "raw_value": "garage light",
+                    "start": 5,
+                    "raw_start": 5,
+                    "end": 17,
+                    "raw_end": 17,
+                    "tokens": [
+                        "garage",
+                        "light"
+                    ],
+                    "raw_tokens": [
+                        "garage",
+                        "light"
+                    ]
+                },
+                {
+                    "entity": "state",
+                    "value": "off",
+                    "raw_value": "off",
+                    "start": 18,
+                    "raw_start": 18,
+                    "end": 21,
+                    "raw_end": 21,
+                    "tokens": [
+                        "off"
+                    ],
+                    "raw_tokens": [
+                        "off"
+                    ]
+                }
+            ],
+            "text": "turn garage light off",
+            "raw_text": "turn garage light off",
+            "recognize_seconds": 0,
+            "tokens": [
+                "turn",
+                "garage",
+                "light",
+                "off"
+            ],
+            "raw_tokens": [
+                "turn",
+                "garage",
+                "light",
+                "off"
+            ]
+        },
+        {
+            "intent": {
+                "name": "ChangeLightState",
+                "confidence": 1.0
+            },
+            "entities": [
+                {
+                    "entity": "name",
+                    "value": "bedroom light",
+                    "raw_value": "bedroom light",
+                    "start": 5,
+                    "raw_start": 5,
+                    "end": 18,
+                    "raw_end": 18,
+                    "tokens": [
+                        "bedroom",
+                        "light"
+                    ],
+                    "raw_tokens": [
+                        "bedroom",
+                        "light"
+                    ]
+                },
+                {
+                    "entity": "state",
+                    "value": "on",
+                    "raw_value": "on",
+                    "start": 19,
+                    "raw_start": 19,
+                    "end": 21,
+                    "raw_end": 21,
+                    "tokens": [
+                        "on"
+                    ],
+                    "raw_tokens": [
+                        "on"
+                    ]
+                }
+            ],
+            "text": "turn bedroom light on",
+            "raw_text": "turn bedroom light on",
+            "recognize_seconds": 0,
+            "tokens": [
+                "turn",
+                "bedroom",
+                "light",
+                "on"
+            ],
+            "raw_tokens": [
+                "turn",
+                "bedroom",
+                "light",
+                "on"
+            ]
+        },
+        {
+            "intent": {
+                "name": "ChangeLightState",
+                "confidence": 1.0
+            },
+            "entities": [
+                {
+                    "entity": "name",
+                    "value": "bedroom light",
+                    "raw_value": "bedroom light",
+                    "start": 5,
+                    "raw_start": 5,
+                    "end": 18,
+                    "raw_end": 18,
+                    "tokens": [
+                        "bedroom",
+                        "light"
+                    ],
+                    "raw_tokens": [
+                        "bedroom",
+                        "light"
+                    ]
+                },
+                {
+                    "entity": "state",
+                    "value": "off",
+                    "raw_value": "off",
+                    "start": 19,
+                    "raw_start": 19,
+                    "end": 22,
+                    "raw_end": 22,
+                    "tokens": [
+                        "off"
+                    ],
+                    "raw_tokens": [
+                        "off"
+                    ]
+                }
+            ],
+            "text": "turn bedroom light off",
+            "raw_text": "turn bedroom light off",
+            "recognize_seconds": 0,
+            "tokens": [
+                "turn",
+                "bedroom",
+                "light",
+                "off"
+            ],
+            "raw_tokens": [
+                "turn",
+                "bedroom",
+                "light",
+                "off"
+            ]
+        }
+    ],
+    "ChangeLightColor": [
+        {
+            "intent": {
+                "name": "ChangeLightColor",
+                "confidence": 1.0
+            },
+            "entities": [
+                {
+                    "entity": "name",
+                    "value": "bedroom light",
+                    "raw_value": "bedroom light",
+                    "start": 8,
+                    "raw_start": 8,
+                    "end": 21,
+                    "raw_end": 21,
+                    "tokens": [
+                        "bedroom",
+                        "light"
+                    ],
+                    "raw_tokens": [
+                        "bedroom",
+                        "light"
+                    ]
+                },
+                {
+                    "entity": "color",
+                    "value": "red",
+                    "raw_value": "red",
+                    "start": 25,
+                    "raw_start": 25,
+                    "end": 28,
+                    "raw_end": 28,
+                    "tokens": [
+                        "red"
+                    ],
+                    "raw_tokens": [
+                        "red"
+                    ]
+                }
+            ],
+            "text": "set the bedroom light to red",
+            "raw_text": "set the bedroom light to red",
+            "recognize_seconds": 0,
+            "tokens": [
+                "set",
+                "the",
+                "bedroom",
+                "light",
+                "to",
+                "red"
+            ],
+            "raw_tokens": [
+                "set",
+                "the",
+                "bedroom",
+                "light",
+                "to",
+                "red"
+            ]
+        },
+        {
+            "intent": {
+                "name": "ChangeLightColor",
+                "confidence": 1.0
+            },
+            "entities": [
+                {
+                    "entity": "name",
+                    "value": "bedroom light",
+                    "raw_value": "bedroom light",
+                    "start": 8,
+                    "raw_start": 8,
+                    "end": 21,
+                    "raw_end": 21,
+                    "tokens": [
+                        "bedroom",
+                        "light"
+                    ],
+                    "raw_tokens": [
+                        "bedroom",
+                        "light"
+                    ]
+                },
+                {
+                    "entity": "color",
+                    "value": "green",
+                    "raw_value": "green",
+                    "start": 25,
+                    "raw_start": 25,
+                    "end": 30,
+                    "raw_end": 30,
+                    "tokens": [
+                        "green"
+                    ],
+                    "raw_tokens": [
+                        "green"
+                    ]
+                }
+            ],
+            "text": "set the bedroom light to green",
+            "raw_text": "set the bedroom light to green",
+            "recognize_seconds": 0,
+            "tokens": [
+                "set",
+                "the",
+                "bedroom",
+                "light",
+                "to",
+                "green"
+            ],
+            "raw_tokens": [
+                "set",
+                "the",
+                "bedroom",
+                "light",
+                "to",
+                "green"
+            ]
+        },
+        {
+            "intent": {
+                "name": "ChangeLightColor",
+                "confidence": 1.0
+            },
+            "entities": [
+                {
+                    "entity": "name",
+                    "value": "bedroom light",
+                    "raw_value": "bedroom light",
+                    "start": 8,
+                    "raw_start": 8,
+                    "end": 21,
+                    "raw_end": 21,
+                    "tokens": [
+                        "bedroom",
+                        "light"
+                    ],
+                    "raw_tokens": [
+                        "bedroom",
+                        "light"
+                    ]
+                },
+                {
+                    "entity": "color",
+                    "value": "blue",
+                    "raw_value": "blue",
+                    "start": 25,
+                    "raw_start": 25,
+                    "end": 29,
+                    "raw_end": 29,
+                    "tokens": [
+                        "blue"
+                    ],
+                    "raw_tokens": [
+                        "blue"
+                    ]
+                }
+            ],
+            "text": "set the bedroom light to blue",
+            "raw_text": "set the bedroom light to blue",
+            "recognize_seconds": 0,
+            "tokens": [
+                "set",
+                "the",
+                "bedroom",
+                "light",
+                "to",
+                "blue"
+            ],
+            "raw_tokens": [
+                "set",
+                "the",
+                "bedroom",
+                "light",
+                "to",
+                "blue"
+            ]
+        },
+        {
+            "intent": {
+                "name": "ChangeLightColor",
+                "confidence": 1.0
+            },
+            "entities": [
+                {
+                    "entity": "name",
+                    "value": "bedroom light",
+                    "raw_value": "bedroom light",
+                    "start": 8,
+                    "raw_start": 8,
+                    "end": 21,
+                    "raw_end": 21,
+                    "tokens": [
+                        "bedroom",
+                        "light"
+                    ],
+                    "raw_tokens": [
+                        "bedroom",
+                        "light"
+                    ]
+                },
+                {
+                    "entity": "color",
+                    "value": "red",
+                    "raw_value": "red",
+                    "start": 22,
+                    "raw_start": 22,
+                    "end": 25,
+                    "raw_end": 25,
+                    "tokens": [
+                        "red"
+                    ],
+                    "raw_tokens": [
+                        "red"
+                    ]
+                }
+            ],
+            "text": "set the bedroom light red",
+            "raw_text": "set the bedroom light red",
+            "recognize_seconds": 0,
+            "tokens": [
+                "set",
+                "the",
+                "bedroom",
+                "light",
+                "red"
+            ],
+            "raw_tokens": [
+                "set",
+                "the",
+                "bedroom",
+                "light",
+                "red"
+            ]
+        },
+        {
+            "intent": {
+                "name": "ChangeLightColor",
+                "confidence": 1.0
+            },
+            "entities": [
+                {
+                    "entity": "name",
+                    "value": "bedroom light",
+                    "raw_value": "bedroom light",
+                    "start": 8,
+                    "raw_start": 8,
+                    "end": 21,
+                    "raw_end": 21,
+                    "tokens": [
+                        "bedroom",
+                        "light"
+                    ],
+                    "raw_tokens": [
+                        "bedroom",
+                        "light"
+                    ]
+                },
+                {
+                    "entity": "color",
+                    "value": "green",
+                    "raw_value": "green",
+                    "start": 22,
+                    "raw_start": 22,
+                    "end": 27,
+                    "raw_end": 27,
+                    "tokens": [
+                        "green"
+                    ],
+                    "raw_tokens": [
+                        "green"
+                    ]
+                }
+            ],
+            "text": "set the bedroom light green",
+            "raw_text": "set the bedroom light green",
+            "recognize_seconds": 0,
+            "tokens": [
+                "set",
+                "the",
+                "bedroom",
+                "light",
+                "green"
+            ],
+            "raw_tokens": [
+                "set",
+                "the",
+                "bedroom",
+                "light",
+                "green"
+            ]
+        },
+        {
+            "intent": {
+                "name": "ChangeLightColor",
+                "confidence": 1.0
+            },
+            "entities": [
+                {
+                    "entity": "name",
+                    "value": "bedroom light",
+                    "raw_value": "bedroom light",
+                    "start": 8,
+                    "raw_start": 8,
+                    "end": 21,
+                    "raw_end": 21,
+                    "tokens": [
+                        "bedroom",
+                        "light"
+                    ],
+                    "raw_tokens": [
+                        "bedroom",
+                        "light"
+                    ]
+                },
+                {
+                    "entity": "color",
+                    "value": "blue",
+                    "raw_value": "blue",
+                    "start": 22,
+                    "raw_start": 22,
+                    "end": 26,
+                    "raw_end": 26,
+                    "tokens": [
+                        "blue"
+                    ],
+                    "raw_tokens": [
+                        "blue"
+                    ]
+                }
+            ],
+            "text": "set the bedroom light blue",
+            "raw_text": "set the bedroom light blue",
+            "recognize_seconds": 0,
+            "tokens": [
+                "set",
+                "the",
+                "bedroom",
+                "light",
+                "blue"
+            ],
+            "raw_tokens": [
+                "set",
+                "the",
+                "bedroom",
+                "light",
+                "blue"
+            ]
+        },
+        {
+            "intent": {
+                "name": "ChangeLightColor",
+                "confidence": 1.0
+            },
+            "entities": [
+                {
+                    "entity": "name",
+                    "value": "bedroom light",
+                    "raw_value": "bedroom light",
+                    "start": 4,
+                    "raw_start": 4,
+                    "end": 17,
+                    "raw_end": 17,
+                    "tokens": [
+                        "bedroom",
+                        "light"
+                    ],
+                    "raw_tokens": [
+                        "bedroom",
+                        "light"
+                    ]
+                },
+                {
+                    "entity": "color",
+                    "value": "red",
+                    "raw_value": "red",
+                    "start": 21,
+                    "raw_start": 21,
+                    "end": 24,
+                    "raw_end": 24,
+                    "tokens": [
+                        "red"
+                    ],
+                    "raw_tokens": [
+                        "red"
+                    ]
+                }
+            ],
+            "text": "set bedroom light to red",
+            "raw_text": "set bedroom light to red",
+            "recognize_seconds": 0,
+            "tokens": [
+                "set",
+                "bedroom",
+                "light",
+                "to",
+                "red"
+            ],
+            "raw_tokens": [
+                "set",
+                "bedroom",
+                "light",
+                "to",
+                "red"
+            ]
+        },
+        {
+            "intent": {
+                "name": "ChangeLightColor",
+                "confidence": 1.0
+            },
+            "entities": [
+                {
+                    "entity": "name",
+                    "value": "bedroom light",
+                    "raw_value": "bedroom light",
+                    "start": 4,
+                    "raw_start": 4,
+                    "end": 17,
+                    "raw_end": 17,
+                    "tokens": [
+                        "bedroom",
+                        "light"
+                    ],
+                    "raw_tokens": [
+                        "bedroom",
+                        "light"
+                    ]
+                },
+                {
+                    "entity": "color",
+                    "value": "green",
+                    "raw_value": "green",
+                    "start": 21,
+                    "raw_start": 21,
+                    "end": 26,
+                    "raw_end": 26,
+                    "tokens": [
+                        "green"
+                    ],
+                    "raw_tokens": [
+                        "green"
+                    ]
+                }
+            ],
+            "text": "set bedroom light to green",
+            "raw_text": "set bedroom light to green",
+            "recognize_seconds": 0,
+            "tokens": [
+                "set",
+                "bedroom",
+                "light",
+                "to",
+                "green"
+            ],
+            "raw_tokens": [
+                "set",
+                "bedroom",
+                "light",
+                "to",
+                "green"
+            ]
+        },
+        {
+            "intent": {
+                "name": "ChangeLightColor",
+                "confidence": 1.0
+            },
+            "entities": [
+                {
+                    "entity": "name",
+                    "value": "bedroom light",
+                    "raw_value": "bedroom light",
+                    "start": 4,
+                    "raw_start": 4,
+                    "end": 17,
+                    "raw_end": 17,
+                    "tokens": [
+                        "bedroom",
+                        "light"
+                    ],
+                    "raw_tokens": [
+                        "bedroom",
+                        "light"
+                    ]
+                },
+                {
+                    "entity": "color",
+                    "value": "blue",
+                    "raw_value": "blue",
+                    "start": 21,
+                    "raw_start": 21,
+                    "end": 25,
+                    "raw_end": 25,
+                    "tokens": [
+                        "blue"
+                    ],
+                    "raw_tokens": [
+                        "blue"
+                    ]
+                }
+            ],
+            "text": "set bedroom light to blue",
+            "raw_text": "set bedroom light to blue",
+            "recognize_seconds": 0,
+            "tokens": [
+                "set",
+                "bedroom",
+                "light",
+                "to",
+                "blue"
+            ],
+            "raw_tokens": [
+                "set",
+                "bedroom",
+                "light",
+                "to",
+                "blue"
+            ]
+        },
+        {
+            "intent": {
+                "name": "ChangeLightColor",
+                "confidence": 1.0
+            },
+            "entities": [
+                {
+                    "entity": "name",
+                    "value": "bedroom light",
+                    "raw_value": "bedroom light",
+                    "start": 4,
+                    "raw_start": 4,
+                    "end": 17,
+                    "raw_end": 17,
+                    "tokens": [
+                        "bedroom",
+                        "light"
+                    ],
+                    "raw_tokens": [
+                        "bedroom",
+                        "light"
+                    ]
+                },
+                {
+                    "entity": "color",
+                    "value": "red",
+                    "raw_value": "red",
+                    "start": 18,
+                    "raw_start": 18,
+                    "end": 21,
+                    "raw_end": 21,
+                    "tokens": [
+                        "red"
+                    ],
+                    "raw_tokens": [
+                        "red"
+                    ]
+                }
+            ],
+            "text": "set bedroom light red",
+            "raw_text": "set bedroom light red",
+            "recognize_seconds": 0,
+            "tokens": [
+                "set",
+                "bedroom",
+                "light",
+                "red"
+            ],
+            "raw_tokens": [
+                "set",
+                "bedroom",
+                "light",
+                "red"
+            ]
+        },
+        {
+            "intent": {
+                "name": "ChangeLightColor",
+                "confidence": 1.0
+            },
+            "entities": [
+                {
+                    "entity": "name",
+                    "value": "bedroom light",
+                    "raw_value": "bedroom light",
+                    "start": 4,
+                    "raw_start": 4,
+                    "end": 17,
+                    "raw_end": 17,
+                    "tokens": [
+                        "bedroom",
+                        "light"
+                    ],
+                    "raw_tokens": [
+                        "bedroom",
+                        "light"
+                    ]
+                },
+                {
+                    "entity": "color",
+                    "value": "green",
+                    "raw_value": "green",
+                    "start": 18,
+                    "raw_start": 18,
+                    "end": 23,
+                    "raw_end": 23,
+                    "tokens": [
+                        "green"
+                    ],
+                    "raw_tokens": [
+                        "green"
+                    ]
+                }
+            ],
+            "text": "set bedroom light green",
+            "raw_text": "set bedroom light green",
+            "recognize_seconds": 0,
+            "tokens": [
+                "set",
+                "bedroom",
+                "light",
+                "green"
+            ],
+            "raw_tokens": [
+                "set",
+                "bedroom",
+                "light",
+                "green"
+            ]
+        },
+        {
+            "intent": {
+                "name": "ChangeLightColor",
+                "confidence": 1.0
+            },
+            "entities": [
+                {
+                    "entity": "name",
+                    "value": "bedroom light",
+                    "raw_value": "bedroom light",
+                    "start": 4,
+                    "raw_start": 4,
+                    "end": 17,
+                    "raw_end": 17,
+                    "tokens": [
+                        "bedroom",
+                        "light"
+                    ],
+                    "raw_tokens": [
+                        "bedroom",
+                        "light"
+                    ]
+                },
+                {
+                    "entity": "color",
+                    "value": "blue",
+                    "raw_value": "blue",
+                    "start": 18,
+                    "raw_start": 18,
+                    "end": 22,
+                    "raw_end": 22,
+                    "tokens": [
+                        "blue"
+                    ],
+                    "raw_tokens": [
+                        "blue"
+                    ]
+                }
+            ],
+            "text": "set bedroom light blue",
+            "raw_text": "set bedroom light blue",
+            "recognize_seconds": 0,
+            "tokens": [
+                "set",
+                "bedroom",
+                "light",
+                "blue"
+            ],
+            "raw_tokens": [
+                "set",
+                "bedroom",
+                "light",
+                "blue"
+            ]
+        },
+        {
+            "intent": {
+                "name": "ChangeLightColor",
+                "confidence": 1.0
+            },
+            "entities": [
+                {
+                    "entity": "name",
+                    "value": "bedroom light",
+                    "raw_value": "bedroom light",
+                    "start": 9,
+                    "raw_start": 9,
+                    "end": 22,
+                    "raw_end": 22,
+                    "tokens": [
+                        "bedroom",
+                        "light"
+                    ],
+                    "raw_tokens": [
+                        "bedroom",
+                        "light"
+                    ]
+                },
+                {
+                    "entity": "color",
+                    "value": "red",
+                    "raw_value": "red",
+                    "start": 23,
+                    "raw_start": 23,
+                    "end": 26,
+                    "raw_end": 26,
+                    "tokens": [
+                        "red"
+                    ],
+                    "raw_tokens": [
+                        "red"
+                    ]
+                }
+            ],
+            "text": "make the bedroom light red",
+            "raw_text": "make the bedroom light red",
+            "recognize_seconds": 0,
+            "tokens": [
+                "make",
+                "the",
+                "bedroom",
+                "light",
+                "red"
+            ],
+            "raw_tokens": [
+                "make",
+                "the",
+                "bedroom",
+                "light",
+                "red"
+            ]
+        },
+        {
+            "intent": {
+                "name": "ChangeLightColor",
+                "confidence": 1.0
+            },
+            "entities": [
+                {
+                    "entity": "name",
+                    "value": "bedroom light",
+                    "raw_value": "bedroom light",
+                    "start": 9,
+                    "raw_start": 9,
+                    "end": 22,
+                    "raw_end": 22,
+                    "tokens": [
+                        "bedroom",
+                        "light"
+                    ],
+                    "raw_tokens": [
+                        "bedroom",
+                        "light"
+                    ]
+                },
+                {
+                    "entity": "color",
+                    "value": "green",
+                    "raw_value": "green",
+                    "start": 23,
+                    "raw_start": 23,
+                    "end": 28,
+                    "raw_end": 28,
+                    "tokens": [
+                        "green"
+                    ],
+                    "raw_tokens": [
+                        "green"
+                    ]
+                }
+            ],
+            "text": "make the bedroom light green",
+            "raw_text": "make the bedroom light green",
+            "recognize_seconds": 0,
+            "tokens": [
+                "make",
+                "the",
+                "bedroom",
+                "light",
+                "green"
+            ],
+            "raw_tokens": [
+                "make",
+                "the",
+                "bedroom",
+                "light",
+                "green"
+            ]
+        },
+        {
+            "intent": {
+                "name": "ChangeLightColor",
+                "confidence": 1.0
+            },
+            "entities": [
+                {
+                    "entity": "name",
+                    "value": "bedroom light",
+                    "raw_value": "bedroom light",
+                    "start": 9,
+                    "raw_start": 9,
+                    "end": 22,
+                    "raw_end": 22,
+                    "tokens": [
+                        "bedroom",
+                        "light"
+                    ],
+                    "raw_tokens": [
+                        "bedroom",
+                        "light"
+                    ]
+                },
+                {
+                    "entity": "color",
+                    "value": "blue",
+                    "raw_value": "blue",
+                    "start": 23,
+                    "raw_start": 23,
+                    "end": 27,
+                    "raw_end": 27,
+                    "tokens": [
+                        "blue"
+                    ],
+                    "raw_tokens": [
+                        "blue"
+                    ]
+                }
+            ],
+            "text": "make the bedroom light blue",
+            "raw_text": "make the bedroom light blue",
+            "recognize_seconds": 0,
+            "tokens": [
+                "make",
+                "the",
+                "bedroom",
+                "light",
+                "blue"
+            ],
+            "raw_tokens": [
+                "make",
+                "the",
+                "bedroom",
+                "light",
+                "blue"
+            ]
+        },
+        {
+            "intent": {
+                "name": "ChangeLightColor",
+                "confidence": 1.0
+            },
+            "entities": [
+                {
+                    "entity": "name",
+                    "value": "bedroom light",
+                    "raw_value": "bedroom light",
+                    "start": 5,
+                    "raw_start": 5,
+                    "end": 18,
+                    "raw_end": 18,
+                    "tokens": [
+                        "bedroom",
+                        "light"
+                    ],
+                    "raw_tokens": [
+                        "bedroom",
+                        "light"
+                    ]
+                },
+                {
+                    "entity": "color",
+                    "value": "red",
+                    "raw_value": "red",
+                    "start": 19,
+                    "raw_start": 19,
+                    "end": 22,
+                    "raw_end": 22,
+                    "tokens": [
+                        "red"
+                    ],
+                    "raw_tokens": [
+                        "red"
+                    ]
+                }
+            ],
+            "text": "make bedroom light red",
+            "raw_text": "make bedroom light red",
+            "recognize_seconds": 0,
+            "tokens": [
+                "make",
+                "bedroom",
+                "light",
+                "red"
+            ],
+            "raw_tokens": [
+                "make",
+                "bedroom",
+                "light",
+                "red"
+            ]
+        },
+        {
+            "intent": {
+                "name": "ChangeLightColor",
+                "confidence": 1.0
+            },
+            "entities": [
+                {
+                    "entity": "name",
+                    "value": "bedroom light",
+                    "raw_value": "bedroom light",
+                    "start": 5,
+                    "raw_start": 5,
+                    "end": 18,
+                    "raw_end": 18,
+                    "tokens": [
+                        "bedroom",
+                        "light"
+                    ],
+                    "raw_tokens": [
+                        "bedroom",
+                        "light"
+                    ]
+                },
+                {
+                    "entity": "color",
+                    "value": "green",
+                    "raw_value": "green",
+                    "start": 19,
+                    "raw_start": 19,
+                    "end": 24,
+                    "raw_end": 24,
+                    "tokens": [
+                        "green"
+                    ],
+                    "raw_tokens": [
+                        "green"
+                    ]
+                }
+            ],
+            "text": "make bedroom light green",
+            "raw_text": "make bedroom light green",
+            "recognize_seconds": 0,
+            "tokens": [
+                "make",
+                "bedroom",
+                "light",
+                "green"
+            ],
+            "raw_tokens": [
+                "make",
+                "bedroom",
+                "light",
+                "green"
+            ]
+        },
+        {
+            "intent": {
+                "name": "ChangeLightColor",
+                "confidence": 1.0
+            },
+            "entities": [
+                {
+                    "entity": "name",
+                    "value": "bedroom light",
+                    "raw_value": "bedroom light",
+                    "start": 5,
+                    "raw_start": 5,
+                    "end": 18,
+                    "raw_end": 18,
+                    "tokens": [
+                        "bedroom",
+                        "light"
+                    ],
+                    "raw_tokens": [
+                        "bedroom",
+                        "light"
+                    ]
+                },
+                {
+                    "entity": "color",
+                    "value": "blue",
+                    "raw_value": "blue",
+                    "start": 19,
+                    "raw_start": 19,
+                    "end": 23,
+                    "raw_end": 23,
+                    "tokens": [
+                        "blue"
+                    ],
+                    "raw_tokens": [
+                        "blue"
+                    ]
+                }
+            ],
+            "text": "make bedroom light blue",
+            "raw_text": "make bedroom light blue",
+            "recognize_seconds": 0,
+            "tokens": [
+                "make",
+                "bedroom",
+                "light",
+                "blue"
+            ],
+            "raw_tokens": [
+                "make",
+                "bedroom",
+                "light",
+                "blue"
+            ]
+        }
+    ]
+}
