@@ -1,15 +1,16 @@
 #!/bin/sh
 # Sudo check
 if ! [ $(id -u) = 0 ]; then
-   echo "Error, run as root"
+   echo ">> Error, run as root"
    exit 1
 fi
 # Copy config to this folder
 this_dir=`basename $PWD`
 if [ $this_dir != "rhasspy_config" ]; then
-   echo "Error, Please run in rhasspy_config directory"
+   echo ">> Error, Please run in rhasspy_config directory"
   exit 1
 fi
+echo ">> copy rhasspy config with exclusions"
 # Copy files, rsync is like cp with exclude
 path=~/.config/rhasspy/profiles
 rsync -avr \
@@ -18,5 +19,5 @@ rsync -avr \
  --exclude=*/googlewavenet \
  $path ./
 # set owner, prevent git trouble ($SUDO_USER get the real user using sudo)
-echo "set owner to profiles/"
+echo ">> Set owner to profiles/"
 sudo chown -R $SUDO_USER:$SUDO_USER profiles/
