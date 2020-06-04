@@ -74,3 +74,17 @@ sudo apt-get install python3-pip
 pip3 install wheel
 sudo pip3 install hermes-audio-server
 ```
+### Notes personnel
+https://hub.docker.com/r/synesthesiam/rhasspy-server/tags
+KALDI \
+https://github.com/synesthesiam/rhasspy-profiles/releases/download/v1.0-en/en_kaldi-zamia.tar.gz 
+
+Install \
+sudo apt install python-pip \
+pip install --upgrade pip \
+pip install -r requirements.txt \
+*Si un bug de ssl \
+sudo python -m easy_install --upgrade pyOpenSSL
+
+
+pip install hermes-audio-server

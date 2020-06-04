@@ -5,3 +5,4 @@ rospkg
 requests
 websocket
 netifaces
+websocket_client

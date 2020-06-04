@@ -16,10 +16,10 @@ echo ">> Coppy config to Rhasspy"
 sudo cp -r profiles ~/.config/rhasspy/
 echo ">> Extract and prepare Kaldi library"
 
-echo extract kaldi
+#echo extract kaldi
 
-echo ">> * Expected error, tar: kaldi/model/model/utils: Cannot open: File exists"
-echo ">> * Eexpected error, tar: Exiting with failure status due to previous errors"
-cd ~/.config/rhasspy/profiles/en/
-sudo tar -xf download/en_kaldi-zamia.tar.gz
+#echo ">> * Expected error, tar: kaldi/model/model/utils: Cannot open: File exists"
+#echo ">> * Eexpected error, tar: Exiting with failure status due to previous errors"
+#cd ~/.config/rhasspy/profiles/en/
+#sudo tar -xf download/en_kaldi-zamia.tar.gz
 
