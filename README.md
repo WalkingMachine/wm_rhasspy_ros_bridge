@@ -85,6 +85,8 @@ pip install --upgrade pip \
 pip install -r requirements.txt \
 *Si un bug de ssl \
 sudo python -m easy_install --upgrade pyOpenSSL
-
-
-pip install hermes-audio-server
+*Pyaudio error
+sudo apt install libasound-dev portaudio19-dev libportaudiocpp0
+pip3 install pyaudio
+pip3 install hermes-audio-server
+sudo apt-get install mosquitto

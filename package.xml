@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package>
-  <name>wm_rhasspy</name>
+  <name>wm_rhasspy_ros_bridge</name>
   <version>0.0.1</version>
   <description>The wm_rhasspy package</description>
 

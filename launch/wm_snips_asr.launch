@@ -1,5 +1,0 @@
-<launch>
-    <node name="wm_rhasspy_node" pkg="wm_rhasspy" type="wm_rhasspy_service.py" output="screen" >
-        <remap from="/wm_rhasspy/intent" to="/sara_command"/>
-    </node>
-</launch>

@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
 cd ~/Repo/wm_rhasspy/
@@ -8,7 +9,6 @@ bash -i -c "/snap/pycharm-community/172/bin/pycharm.sh" %f
 """
 #   Global import
 import sys
-# sys.path.remove('/opt/ros/kinetic/lib/python2.7/dist-packages')
 import json
 import rospy
 from time import sleep, time
@@ -18,9 +18,13 @@ from rhasspy_rest_api import RhasspyRestApiClient, RhasspyRestApiServer
 from rhasspy_mqtt_client import MqttClient
 from rhasspy_ros_client import RosClient
 from rhasspy_utils import *
-
 from std_msgs.msg import String
-from ..msg import listen
+
+DEBUG = False
+if DEBUG:
+    sys.path.remove('/opt/ros/kinetic/lib/python2.7/dist-packages')
+else:
+    from wm_rhasspy_ros_bridge.msg import listen
 
 LOG_PREFIX = log_prefix("Main")
 

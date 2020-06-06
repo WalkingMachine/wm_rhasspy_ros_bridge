@@ -1,0 +1,12 @@
+{
+    "site": "default",
+    "mqtt": {
+        "host": "localhost",
+        "port": 1883
+    },
+    "vad": {
+        "mode": 0,
+        "silence": 2,
+        "status_messages": true
+    }
+}
