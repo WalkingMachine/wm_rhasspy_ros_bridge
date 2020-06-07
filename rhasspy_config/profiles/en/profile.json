@@ -35,8 +35,12 @@
             "threshold": 3.1622776601683794e-28
         },
         "porcupine": {
-            "keyword_path": "porcupine/hey_sara_linux_2020-02-13.ppn"
+            "keyword_path": "porcupine/hey_sara_2020-07-06.ppn"
         },
-        "system": "porcupine"
+        "snowboy": {
+            "model": "snowboy/ok_sarah.pmdl",
+            "sensitivity": "0.4"
+        },
+        "system": "snowboy"
     }
 }

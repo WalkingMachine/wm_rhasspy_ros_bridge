@@ -14,7 +14,7 @@ fi
 # Copy files
 echo ">> Coppy config to Rhasspy"
 sudo cp -r profiles ~/.config/rhasspy/
-echo ">> Extract and prepare Kaldi library"
+#echo ">> Extract and prepare Kaldi library"
 
 #echo extract kaldi
 
