@@ -109,7 +109,7 @@ class RhasspyRestApiServer(Thread):
             def do_POST(_self):
                 content_length = int(_self.headers['Content-Length'])  # Get the size of data
                 post_data = _self.rfile.read(content_length)  # Get the data itself
-                dic = json.loads(post_data)                   # Convert to dictionary
+                dic = json.loads(post_data.decode())                   # Convert to dictionary
                 self.post_callback(_self.path, dic)           # Call the remote callback
                 dic["hass_event"] = {"event_type": "...", "event_data": {"key": "value"} }
                 #print("XXX", json.dumps(dic))
