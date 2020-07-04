@@ -96,6 +96,9 @@ class CallbackCenter:
                     self.rest_api_client_1.say_tts("There is no indication")
             else:
                 self.rest_api_client_1.say_tts("Intent not detected")
+            _rhasspy_client = RhasspyRestApiClient(RHASSPY_1_REST_URM)
+            _rhasspy_client.listen()
+
 
 
 if __name__ == "__main__":
@@ -125,6 +128,9 @@ if __name__ == "__main__":
     rhasspy_client = RhasspyRestApiClient(RHASSPY_1_REST_URM)
     rhasspy_client.say_tts("I'm listening")  # Used to sent TTS to Rhasspy
     mqtt_client1.start()
+    sleep(1)
+    _rhasspy_client = RhasspyRestApiClient(RHASSPY_1_REST_URM)
+    _rhasspy_client.listen()
 
     callback_center.wait_until_shutdown()
     hermes.stop()

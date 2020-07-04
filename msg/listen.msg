@@ -1,1 +1,3 @@
-string topic
+string intent
+
+string target
