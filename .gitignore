@@ -10,3 +10,5 @@ rhasspy_config/profiles/fr/
 rhasspy_config/profiles/en/tts/googlewavenet/credentials.json
 
 rhasspy_config/profiles/en/download/
+
+rhasspy_config/rhasspy-server.tar

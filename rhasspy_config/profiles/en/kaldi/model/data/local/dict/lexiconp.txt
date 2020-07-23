@@ -1,0 +1,98 @@
+affirmative 1.0	V f '3 m V t I v
+and 1.0	V n d
+apple 1.0	'{ p V l
+are 1.0	'A r
+at 1.0	'{ t
+bag 1.0	b '{ g
+banana 1.0	b V n '{ n V
+bathroom 1.0	b '{ T r u m
+bedroom 1.0	b 'E d r u m
+blue 1.0	b l 'u
+box 1.0	b 'A k s
+can 1.0	k '{ n
+car 1.0	k 'A r
+closed 1.0	k l 'o U z d
+cold 1.0	k 'o U l d
+could 1.0	k 'U d
+dish 1.0	d 'I S
+do 1.0	d 'u
+don't 1.0	d 'o U n t
+door 1.0	d 'O r
+eight 1.0	'e I t
+emergency 1.0	I m '3 dZ V n s i
+entrance 1.0	'E n t r V n s
+five 1.0	f 'aI v
+follow 1.0	f 'A l o U
+four 1.0	f 'O r
+garage 1.0	g 3 'A Z
+glass 1.0	g l '{ s
+go 1.0	g 'o U
+grab 1.0	g r '{ b
+green 1.0	g r 'i n
+here 1.0	h 'i r
+hey 1.0	h 'e I
+hot 1.0	h 'A t
+how 1.0	h 'aU
+i 1.0	'aI
+in 1.0	I n
+initialize 1.0	I n 'I S V l aI z
+is 1.0	'I z
+it 1.0	'I t
+kitchen 1.0	k 'I tS V n
+lamp 1.0	l '{ m p
+light 1.0	l 'aI t
+like 1.0	l 'aI k
+living 1.0	l 'I v I N
+living-room 1.0	l 'I v I N r u m
+make 1.0	m 'e I k
+me 1.0	m 'i
+my 1.0	m 'aI
+need 1.0	n 'i d
+negative 1.0	n 'E g V t I v
+nine 1.0	n 'aI n
+no 1.0	n 'o U
+nope 1.0	n 'o U p
+now 1.0	n 'aU
+off 1.0	'O f
+okay 1.0	o U k 'e I
+on 1.0	'A n
+one 1.0	w 'V n
+open 1.0	'o U p V n
+pickup 1.0	p 'I k V p
+pineapple 1.0	p 'aI n { p V l
+place 1.0	p l 'e I s
+please 1.0	p l 'i z
+red 1.0	r 'E d
+rhasspy 1.0	r '{ s p i
+robot 1.0	r 'o U b A t
+room 1.0	r 'u m
+sara 1.0	s 'E r V
+scenario 1.0	s I n 'E r i o U
+set 1.0	s 'E t
+seven 1.0	s 'E v V n
+six 1.0	s 'I k s
+snowboy 1.0	s n 'o U b OI
+start 1.0	s t 'A r t
+stop 1.0	s t 'A p
+system 1.0	s 'I s t V m
+take 1.0	t 'e I k
+tell 1.0	t 'E l
+temperature 1.0	t 'E m p r V tS 3
+the 1.0	D V
+then 1.0	D 'E n
+there 1.0	D 'E r
+this 1.0	D 'I s
+three 1.0	T r 'i
+time 1.0	t 'aI m
+to 1.0	t 'u
+turn 1.0	t '3 n
+two 1.0	t 'u
+wallet 1.0	w 'O l V t
+want 1.0	w 'A n t
+we 1.0	w 'i
+what 1.0	w 'V t
+whats 1.0	w V ts
+would 1.0	w 'U d
+yes 1.0	j 'E s
+you 1.0	j 'u
+zero 1.0	z 'I r o U

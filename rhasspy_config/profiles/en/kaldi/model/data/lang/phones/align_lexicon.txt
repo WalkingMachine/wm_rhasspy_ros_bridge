@@ -1,0 +1,99 @@
+<eps> <eps> SIL
+affirmative affirmative V_B f_I '3_I m_I V_I t_I I_I v_E
+and and V_B n_I d_E
+apple apple '{_B p_I V_I l_E
+are are 'A_B r_E
+at at '{_B t_E
+bag bag b_B '{_I g_E
+banana banana b_B V_I n_I '{_I n_I V_E
+bathroom bathroom b_B '{_I T_I r_I u_I m_E
+bedroom bedroom b_B 'E_I d_I r_I u_I m_E
+blue blue b_B l_I 'u_E
+box box b_B 'A_I k_I s_E
+can can k_B '{_I n_E
+car car k_B 'A_I r_E
+closed closed k_B l_I 'o_I U_I z_I d_E
+cold cold k_B 'o_I U_I l_I d_E
+could could k_B 'U_I d_E
+dish dish d_B 'I_I S_E
+do do d_B 'u_E
+don't don't d_B 'o_I U_I n_I t_E
+door door d_B 'O_I r_E
+eight eight 'e_B I_I t_E
+emergency emergency I_B m_I '3_I dZ_I V_I n_I s_I i_E
+entrance entrance 'E_B n_I t_I r_I V_I n_I s_E
+five five f_B 'aI_I v_E
+follow follow f_B 'A_I l_I o_I U_E
+four four f_B 'O_I r_E
+garage garage g_B 3_I 'A_I Z_E
+glass glass g_B l_I '{_I s_E
+go go g_B 'o_I U_E
+grab grab g_B r_I '{_I b_E
+green green g_B r_I 'i_I n_E
+here here h_B 'i_I r_E
+hey hey h_B 'e_I I_E
+hot hot h_B 'A_I t_E
+how how h_B 'aU_E
+i i 'aI_S
+in in I_B n_E
+initialize initialize I_B n_I 'I_I S_I V_I l_I aI_I z_E
+is is 'I_B z_E
+it it 'I_B t_E
+kitchen kitchen k_B 'I_I tS_I V_I n_E
+lamp lamp l_B '{_I m_I p_E
+light light l_B 'aI_I t_E
+like like l_B 'aI_I k_E
+living living l_B 'I_I v_I I_I N_E
+living-room living-room l_B 'I_I v_I I_I N_I r_I u_I m_E
+make make m_B 'e_I I_I k_E
+me me m_B 'i_E
+my my m_B 'aI_E
+need need n_B 'i_I d_E
+negative negative n_B 'E_I g_I V_I t_I I_I v_E
+nine nine n_B 'aI_I n_E
+no no n_B 'o_I U_E
+nope nope n_B 'o_I U_I p_E
+now now n_B 'aU_E
+off off 'O_B f_E
+okay okay o_B U_I k_I 'e_I I_E
+on on 'A_B n_E
+one one w_B 'V_I n_E
+open open 'o_B U_I p_I V_I n_E
+pickup pickup p_B 'I_I k_I V_I p_E
+pineapple pineapple p_B 'aI_I n_I {_I p_I V_I l_E
+place place p_B l_I 'e_I I_I s_E
+please please p_B l_I 'i_I z_E
+red red r_B 'E_I d_E
+rhasspy rhasspy r_B '{_I s_I p_I i_E
+robot robot r_B 'o_I U_I b_I A_I t_E
+room room r_B 'u_I m_E
+sara sara s_B 'E_I r_I V_E
+scenario scenario s_B I_I n_I 'E_I r_I i_I o_I U_E
+set set s_B 'E_I t_E
+seven seven s_B 'E_I v_I V_I n_E
+six six s_B 'I_I k_I s_E
+snowboy snowboy s_B n_I 'o_I U_I b_I OI_E
+start start s_B t_I 'A_I r_I t_E
+stop stop s_B t_I 'A_I p_E
+system system s_B 'I_I s_I t_I V_I m_E
+take take t_B 'e_I I_I k_E
+tell tell t_B 'E_I l_E
+temperature temperature t_B 'E_I m_I p_I r_I V_I tS_I 3_E
+the the D_B V_E
+then then D_B 'E_I n_E
+there there D_B 'E_I r_E
+this this D_B 'I_I s_E
+three three T_B r_I 'i_E
+time time t_B 'aI_I m_E
+to to t_B 'u_E
+turn turn t_B '3_I n_E
+two two t_B 'u_E
+wallet wallet w_B 'O_I l_I V_I t_E
+want want w_B 'A_I n_I t_E
+we we w_B 'i_E
+what what w_B 'V_I t_E
+whats whats w_B V_I ts_E
+would would w_B 'U_I d_E
+yes yes j_B 'E_I s_E
+you you j_B 'u_E
+zero zero z_B 'I_I r_I o_I U_E

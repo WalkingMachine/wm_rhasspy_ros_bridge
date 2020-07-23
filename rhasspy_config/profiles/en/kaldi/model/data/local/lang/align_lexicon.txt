@@ -1,0 +1,99 @@
+affirmative V_B f_I '3_I m_I V_I t_I I_I v_E
+and V_B n_I d_E
+apple '{_B p_I V_I l_E
+are 'A_B r_E
+at '{_B t_E
+bag b_B '{_I g_E
+banana b_B V_I n_I '{_I n_I V_E
+bathroom b_B '{_I T_I r_I u_I m_E
+bedroom b_B 'E_I d_I r_I u_I m_E
+blue b_B l_I 'u_E
+box b_B 'A_I k_I s_E
+can k_B '{_I n_E
+car k_B 'A_I r_E
+closed k_B l_I 'o_I U_I z_I d_E
+cold k_B 'o_I U_I l_I d_E
+could k_B 'U_I d_E
+dish d_B 'I_I S_E
+do d_B 'u_E
+don't d_B 'o_I U_I n_I t_E
+door d_B 'O_I r_E
+eight 'e_B I_I t_E
+emergency I_B m_I '3_I dZ_I V_I n_I s_I i_E
+entrance 'E_B n_I t_I r_I V_I n_I s_E
+five f_B 'aI_I v_E
+follow f_B 'A_I l_I o_I U_E
+four f_B 'O_I r_E
+garage g_B 3_I 'A_I Z_E
+glass g_B l_I '{_I s_E
+go g_B 'o_I U_E
+grab g_B r_I '{_I b_E
+green g_B r_I 'i_I n_E
+here h_B 'i_I r_E
+hey h_B 'e_I I_E
+hot h_B 'A_I t_E
+how h_B 'aU_E
+i 'aI_S
+in I_B n_E
+initialize I_B n_I 'I_I S_I V_I l_I aI_I z_E
+is 'I_B z_E
+it 'I_B t_E
+kitchen k_B 'I_I tS_I V_I n_E
+lamp l_B '{_I m_I p_E
+light l_B 'aI_I t_E
+like l_B 'aI_I k_E
+living l_B 'I_I v_I I_I N_E
+living-room l_B 'I_I v_I I_I N_I r_I u_I m_E
+make m_B 'e_I I_I k_E
+me m_B 'i_E
+my m_B 'aI_E
+need n_B 'i_I d_E
+negative n_B 'E_I g_I V_I t_I I_I v_E
+nine n_B 'aI_I n_E
+no n_B 'o_I U_E
+nope n_B 'o_I U_I p_E
+now n_B 'aU_E
+off 'O_B f_E
+okay o_B U_I k_I 'e_I I_E
+on 'A_B n_E
+one w_B 'V_I n_E
+open 'o_B U_I p_I V_I n_E
+pickup p_B 'I_I k_I V_I p_E
+pineapple p_B 'aI_I n_I {_I p_I V_I l_E
+place p_B l_I 'e_I I_I s_E
+please p_B l_I 'i_I z_E
+red r_B 'E_I d_E
+rhasspy r_B '{_I s_I p_I i_E
+robot r_B 'o_I U_I b_I A_I t_E
+room r_B 'u_I m_E
+sara s_B 'E_I r_I V_E
+scenario s_B I_I n_I 'E_I r_I i_I o_I U_E
+set s_B 'E_I t_E
+seven s_B 'E_I v_I V_I n_E
+six s_B 'I_I k_I s_E
+snowboy s_B n_I 'o_I U_I b_I OI_E
+start s_B t_I 'A_I r_I t_E
+stop s_B t_I 'A_I p_E
+system s_B 'I_I s_I t_I V_I m_E
+take t_B 'e_I I_I k_E
+tell t_B 'E_I l_E
+temperature t_B 'E_I m_I p_I r_I V_I tS_I 3_E
+the D_B V_E
+then D_B 'E_I n_E
+there D_B 'E_I r_E
+this D_B 'I_I s_E
+three T_B r_I 'i_E
+time t_B 'aI_I m_E
+to t_B 'u_E
+turn t_B '3_I n_E
+two t_B 'u_E
+wallet w_B 'O_I l_I V_I t_E
+want w_B 'A_I n_I t_E
+we w_B 'i_E
+what w_B 'V_I t_E
+whats w_B V_I ts_E
+would w_B 'U_I d_E
+yes j_B 'E_I s_E
+you j_B 'u_E
+zero z_B 'I_I r_I o_I U_E
+<eps> SIL

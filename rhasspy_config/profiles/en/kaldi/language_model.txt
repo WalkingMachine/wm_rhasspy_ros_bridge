@@ -1,0 +1,707 @@
+
+\data\
+ngram 1=100
+ngram 2=242
+ngram 3=352
+
+\1-grams:
+-99	<s>	-1.798012
+-0.8778982	</s>
+-2.979432	please	-0.9914851
+-2.979432	can	-1.269786
+-3.194744	i	-0.5660623
+-3.456553	could	-0.8369926
+-2.601236	follow	-1.634199
+-3.392992	here	-0.6432458
+-3.392992	there	-0.6432458
+-3.457906	this	-0.8358367
+-2.611841	you	-1.051707
+-3.062815	we	-1.191315
+-4.263118	robot	-0.2825005
+-4.263118	initialize	-0.2825005
+-3.221726	start	-0.7810762
+-3.962088	stop	-0.2825005
+-4.263118	emergency	-0.2825005
+-4.301003	and	-0.2647953
+-3.602033	go	-0.7159635
+-1.314475	grab	-2.911291
+-1.013445	pickup	-2.911297
+-1.013445	take	-2.911297
+-3.538891	yes	-0.4181191
+-4.237861	affirmative	-0.2947617
+-3.635801	no	-0.3608056
+-4.237861	negative	-0.2947617
+-4.237861	nope	-0.2947617
+-3.943146	okay	-0.291662
+-4.244176	hey	-0.291662
+-4.244176	snowboy	-0.291662
+-4.263118	what	-0.2825005
+-4.263118	tell	-0.2825005
+-4.25049	whats	-0.2885852
+-3.94946	how	-0.2885853
+-2.879011	is	-1.082665
+-2.854493	turn	-0.6914096
+-3.150261	set	-0.8414924
+-3.451291	make	-0.5989067
+-3.332402	want	-0.6907829
+-2.591878	me	-1.185531
+-2.806274	are	-0.7302402
+-3.962088	system	-0.4522353
+-3.263118	scenario	-0.2825004
+-2.387577	to	-1.16915
+-0.8179608	the	-2.088591
+-1.013445	my	-2.214439
+-4.237861	do	-0.2947617
+-3.76074	don't	-0.2947617
+-4.244176	rhasspy	-0.291662
+-3.943146	sara	-0.4645852
+-3.962088	time	-0.2825005
+-4.25049	hot	-0.2885852
+-4.25049	cold	-0.2885852
+-3.457906	in	-0.8358367
+-3.392992	at	-0.8918612
+-3.457906	now	-0.8358367
+-3.648338	it	-0.6789561
+-3.936832	need	-0.4687433
+-4.237861	would	-0.2947617
+-4.25049	temperature	-0.2885852
+-3.24024	garage	-0.7656814
+-3.155523	on	-0.5248149
+-3.155523	off	-0.5248149
+-4.263118	three	-0.2825005
+-4.263118	seven	-0.2825005
+-4.263118	zero	-0.2825005
+-4.263118	four	-0.2825005
+-4.263118	five	-0.2825005
+-4.263118	two	-0.2825005
+-4.263118	one	-0.2825005
+-4.263118	nine	-0.2825005
+-4.263118	eight	-0.2825005
+-4.263118	six	-0.2825005
+-1.569747	dish	-2.356378
+-1.569747	box	-2.356378
+-1.569747	bag	-2.356378
+-1.569747	banana	-2.356378
+-1.569747	glass	-2.356378
+-1.569747	apple	-2.356378
+-1.569747	wallet	-2.356378
+-1.569747	pineapple	-2.356378
+-4.237861	like	-0.2947617
+-3.962088	door	-0.2825005
+-3.063369	kitchen	-1.190796
+-3.063369	bathroom	-1.190796
+-3.063369	living-room	-1.190796
+-3.089253	car	-1.166628
+-3.063369	entrance	-1.190796
+-4.25049	place	-0.2885852
+-0.9213338	then	-2.827411
+-4.263118	open	-0.2825005
+-4.263118	closed	-0.2825005
+-3.331614	living	-0.9458338
+-2.816081	bedroom	-1.425759
+-3.331614	room	-0.9458338
+-2.700432	light	-0.7621554
+-3.331614	lamp	-0.5574038
+-3.451291	red	-0.8414924
+-3.451291	green	-0.8414924
+-3.451291	blue	-0.8414924
+
+\2-grams:
+-2.283202	<s> please	-0.8369924
+-2.283202	<s> can	-1.105208
+-2.583928	<s> i	-0.8369926
+-2.584696	<s> could	-0.8369926
+-2.512998	<s> follow	-0.894814
+-2.585899	<s> here	-0.8358367
+-2.585899	<s> there	-0.8358367
+-2.586049	<s> this	-0.8358367
+-2.282696	<s> you	-1.103961
+-2.190957	<s> we	-1.191315
+-3.391261	<s> robot	-0.2825005
+-3.391261	<s> initialize	-0.2825005
+-2.391168	<s> start	-1.007092
+-3.390333	<s> stop	-0.2825005
+-3.391261	<s> emergency	-0.2825005
+-3.429146	<s> and	-0.2647953
+-2.730176	<s> go	-0.7159635
+-0.7379933	<s> grab	-2.615529
+-0.4369633	<s> pickup	-2.614651
+-0.4369633	<s> take	-2.614651
+-2.667034	<s> yes	-0.4181192
+-3.366004	<s> affirmative	-0.2947617
+-2.763944	<s> no	-0.3608056
+-3.366004	<s> negative	-0.2947617
+-3.366004	<s> nope	-0.2947617
+-3.071288	<s> okay	-0.291662
+-3.372318	<s> hey	-0.291662
+-3.372318	<s> snowboy	-0.291662
+-3.391261	<s> what	-0.2825005
+-3.391261	<s> tell	-0.2825005
+-3.378632	<s> whats	-0.2885852
+-3.077602	<s> how	-0.2885852
+-3.080034	<s> is	-0.4522352
+-1.982636	<s> turn	-0.6914096
+-2.278404	<s> set	-0.8414922
+-2.579434	<s> make	-0.5989068
+-0.5236801	please can	-0.8369926
+-0.22262	please follow	-1.105208
+-0.02392449	can you	-0.9914849
+-0.332827	i want	-0.645516
+-0.8795655	i don't	-0.2947617
+-1.180544	i need	-0.2947617
+-1.180647	i would	-0.2947617
+-0.06813175	could you	-0.8369926
+-0.01017537	follow me	-1.343138
+-0.862053	here </s>
+-0.1767527	here is	-0.8358367
+-0.862053	there </s>
+-0.1767527	there is	-0.8358367
+-0.0684117	this is	-0.8358367
+-0.8847764	you please	-0.8369926
+-0.4077182	you follow	-1.269786
+-0.5851777	you are	-0.8358372
+-0.883876	you to	-0.8369925
+-0.02884932	we are	-0.591846
+-0.3201011	robot start	-0.2825005
+-0.3203338	initialize system	-0.2825005
+-1.009712	start </s>
+-0.1199396	start scenario	-0.2825004
+-0.5111359	stop </s>
+-0.6213121	stop system	-0.2825005
+-0.3203338	emergency stop	-0.2825005
+-0.2769638	and </s>
+-0.0923401	go to	-0.7159635
+-0.0004519389	grab the	-1.916076
+-0.3014008	pickup the	-1.916076
+-0.3014596	pickup my	-1.91629
+-0.3014008	take the	-1.916076
+-0.3014596	take my	-1.91629
+-0.7589206	yes </s>
+-0.4304621	yes i	-0.2947618
+-0.9077912	yes do	-0.2947617
+-0.2518689	affirmative </s>
+-0.701607	no </s>
+-0.5490971	no i	-0.4687433
+-0.8503226	no don't	-0.2947617
+-0.2518689	negative </s>
+-0.2518689	nope </s>
+-0.6115828	okay rhasspy	-0.291662
+-0.6115311	okay sara	-0.291662
+-0.3105528	hey sara	-0.291662
+-0.2543208	snowboy </s>
+-0.3203338	what time	-0.2825005
+-0.3191744	tell me	-0.2825005
+-0.2489445	whats the	-0.2885852
+-0.6148202	how hot	-0.2885852
+-0.6148202	how cold	-0.2885852
+-0.08936188	is the	-0.5763386
+-0.93593	is it	-0.5801799
+-0.6381405	turn the	-0.47083
+-1.177237	turn garage	-0.4708301
+-0.7005707	turn on	-0.3922821
+-0.7005707	turn off	-0.3922821
+-1.177382	turn living	-0.4708301
+-1.175973	turn bedroom	-0.4708301
+-0.3469022	set the	-0.8414924
+-0.3683575	set bedroom	-0.8414924
+-0.384699	make the	-0.5989067
+-0.4265787	make bedroom	-0.5989067
+-0.64789	want </s>
+-0.2227713	want you	-0.8369926
+-1.52409	me </s>
+-0.04874472	me to	-1.62422
+-1.525087	me the	-0.2825005
+-1.532532	are here	-0.2885852
+-1.532532	are there	-0.2885852
+-0.7392442	are to	-0.8358367
+-0.7409093	are in	-0.8358366
+-0.6759951	are at	-0.8918612
+-0.7409093	are now	-0.8358366
+-0.1587862	system </s>
+-1.320127	scenario three	-0.2825005
+-1.320127	scenario seven	-0.2825005
+-1.320127	scenario zero	-0.2825005
+-1.320127	scenario four	-0.2825005
+-1.320127	scenario five	-0.2825005
+-1.320127	scenario two	-0.2825005
+-1.320127	scenario one	-0.2825005
+-1.320127	scenario nine	-0.2825005
+-1.320127	scenario eight	-0.2825005
+-1.320127	scenario six	-0.2825005
+-1.098514	to follow	-0.8369926
+-0.1065044	to the	-1.021176
+-1.570912	to red	-0.4743195
+-1.570912	to green	-0.4743195
+-1.570912	to blue	-0.4743195
+-1.221905	the </s>
+-3.447629	the time	-0.2825005
+-3.435542	the temperature	-0.2885852
+-2.650503	the garage	-0.5880836
+-0.9762874	the dish	-2.136836
+-0.9762874	the box	-2.136836
+-0.9762874	the bag	-2.136836
+-0.9762874	the banana	-2.136836
+-0.9762874	the glass	-2.136836
+-0.9762874	the apple	-2.136836
+-0.9762874	the wallet	-2.136836
+-0.9762874	the pineapple	-2.136836
+-2.248421	the kitchen	-1.190796
+-2.248421	the bathroom	-1.190796
+-2.248421	the living-room	-1.190796
+-2.274305	the car	-1.166628
+-2.248421	the entrance	-1.190796
+-3.435542	the place	-0.2885852
+-1.274951	the then	-1.660103
+-2.817155	the living	-0.6914096
+-2.301622	the bedroom	-1.140725
+-1.24694	my </s>
+-0.9562553	my dish	-1.961824
+-0.9562553	my box	-1.961824
+-0.9562553	my bag	-1.961824
+-0.9562553	my banana	-1.961824
+-0.9562553	my glass	-1.961824
+-0.9562553	my apple	-1.961824
+-0.9562553	my wallet	-1.961824
+-0.9562553	my pineapple	-1.961824
+-1.256951	my then	-1.488262
+-0.3072896	do it	-0.2947617
+-0.6355631	don't </s>
+-0.7838878	don't want	-0.2947617
+-0.7843562	don't need	-0.2947617
+-0.2543208	rhasspy </s>
+-0.1534447	sara </s>
+-0.5111359	time </s>
+-0.620165	time is	-0.2825005
+-0.3132342	hot is	-0.2885852
+-0.3132342	cold is	-0.2885852
+-0.05736899	in the	-0.2956515
+-0.05000904	at the	-0.2946491
+-0.06820584	now to	-0.8358367
+-0.08708209	it </s>
+-0.1516944	need </s>
+-0.3073642	would like	-0.2947617
+-0.2567858	temperature </s>
+-0.8035148	garage door	-0.2825005
+-0.1728717	garage light	-0.5574038
+-0.4086793	on </s>
+-0.6560968	on the	-0.2963202
+-1.231982	on garage	-0.2963202
+-1.232223	on living	-0.2963202
+-1.22988	on bedroom	-0.2963202
+-0.4086793	off </s>
+-0.6560968	off the	-0.2963202
+-1.231982	off garage	-0.2963202
+-1.232223	off living	-0.2963202
+-1.22988	off bedroom	-0.2963202
+-0.2617546	three </s>
+-0.2617546	seven </s>
+-0.2617546	zero </s>
+-0.2617546	four </s>
+-0.2617546	five </s>
+-0.2617546	two </s>
+-0.2617546	one </s>
+-0.2617546	nine </s>
+-0.2617546	eight </s>
+-0.2617546	six </s>
+-0.2976966	dish </s>
+-0.3072796	dish then	-1.876608
+-0.2976966	box </s>
+-0.3072796	box then	-1.876608
+-0.2976966	bag </s>
+-0.3072796	bag then	-1.876608
+-0.2976966	banana </s>
+-0.3072796	banana then	-1.876608
+-0.2976966	glass </s>
+-0.3072796	glass then	-1.876608
+-0.2976966	apple </s>
+-0.3072796	apple then	-1.876608
+-0.2976966	wallet </s>
+-0.3072796	wallet then	-1.876608
+-0.2976966	pineapple </s>
+-0.3072796	pineapple then	-1.876608
+-0.2518689	like </s>
+-0.6213638	door open	-0.2825005
+-0.6213638	door closed	-0.2825005
+-0.02498667	kitchen </s>
+-0.02498667	bathroom </s>
+-0.02498667	living-room </s>
+-0.02646102	car </s>
+-0.02498667	entrance </s>
+-0.2567858	place </s>
+-0.6994599	then grab	-2.606007
+-0.3984299	then pickup	-2.608903
+-0.3984299	then take	-2.608903
+-0.2617546	open </s>
+-0.2617546	closed </s>
+-0.05218929	living room	-0.9458338
+-0.01657369	bedroom light	-0.6688357
+-0.05218929	room lamp	-0.5574038
+-0.6650134	light </s>
+-0.831221	light to	-0.4743195
+-1.014122	light on	-0.6914096
+-1.014122	light off	-0.6914096
+-1.009132	light red	-0.6956057
+-1.009132	light green	-0.6956057
+-1.009132	light blue	-0.6956057
+-0.3999363	lamp </s>
+-0.7425012	lamp on	-0.4708301
+-0.7425012	lamp off	-0.4708301
+-0.05797544	red </s>
+-0.05797544	green </s>
+-0.05797544	blue </s>
+
+\3-grams:
+-0.3271545	<s> please can
+-0.2886991	<s> please follow
+-0.001830807	<s> can you
+-0.03522764	<s> i want
+-0.009276116	<s> could you
+-0.001283216	<s> follow me
+-0.02172519	<s> here is
+-0.02172519	<s> there is
+-0.009336773	<s> this is
+-0.02606607	<s> you are
+-0.001800429	<s> we are
+-0.1379319	<s> robot start
+-0.1380117	<s> initialize system
+-0.01043488	<s> start scenario
+-0.2196844	<s> stop system
+-0.1380117	<s> emergency stop
+-0.1285842	<s> and </s>
+-0.01630044	<s> go to
+-1.094777e-06	<s> grab the
+-0.3010309	<s> pickup the
+-0.301031	<s> pickup my
+-0.3010309	<s> take the
+-0.301031	<s> take my
+-0.7208961	<s> yes </s>
+-0.290211	<s> yes i
+-0.7673897	<s> yes do
+-0.1097107	<s> affirmative </s>
+-0.6426615	<s> no </s>
+-0.3923295	<s> no i
+-0.6934188	<s> no don't
+-0.1097107	<s> negative </s>
+-0.1097107	<s> nope </s>
+-0.4323806	<s> okay rhasspy
+-0.4323631	<s> okay sara
+-0.1313506	<s> hey sara
+-0.1115088	<s> snowboy </s>
+-0.1380117	<s> what time
+-0.1376138	<s> tell me
+-0.1104107	<s> whats the
+-0.4345751	<s> how hot
+-0.4345751	<s> how cold
+-0.02948921	<s> is the
+-0.6091639	<s> turn the
+-1.097422	<s> turn garage
+-0.6203779	<s> turn on
+-0.6203779	<s> turn off
+-1.097447	<s> turn living
+-1.097208	<s> turn bedroom
+-0.3073465	<s> set the
+-0.3101083	<s> set bedroom
+-0.3206301	<s> make the
+-0.3293926	<s> make bedroom
+-0.00340128	please can you
+-0.0007900586	please follow me
+-0.5049603	can you please
+-0.1947957	can you follow
+-0.7938707	i want </s>
+-0.09724817	i want you
+-0.4817481	i don't want
+-0.4818665	i don't need
+-0.07035042	i need </s>
+-0.1291906	i would like
+-0.04030299	could you follow
+-1.62786	follow me </s>
+-0.01189537	follow me to
+-0.01194983	here is the
+-0.01194983	there is the
+-0.01194983	this is the
+-0.0261217	you please follow
+-0.0005407004	you follow me
+-0.3433917	you are in
+-0.3393197	you are at
+-0.06245577	you to follow
+-1.253308	we are here
+-1.253308	we are there
+-0.4606292	we are to
+-0.9902578	we are at
+-0.4608532	we are now
+-0.2763547	robot start </s>
+-0.07561245	initialize system </s>
+-1.137941	start scenario three
+-1.137941	start scenario seven
+-1.137941	start scenario zero
+-1.137941	start scenario four
+-1.137941	start scenario five
+-1.137941	start scenario two
+-1.137941	start scenario one
+-1.137941	start scenario nine
+-1.137941	start scenario eight
+-1.137941	start scenario six
+-0.07561245	stop system </s>
+-0.1944759	emergency stop </s>
+-0.018556	go to the
+-1.250167	grab the </s>
+-0.9545034	grab the dish
+-0.9545034	grab the box
+-0.9545034	grab the bag
+-0.9545034	grab the banana
+-0.9545034	grab the glass
+-0.9545034	grab the apple
+-0.9545034	grab the wallet
+-0.9545034	grab the pineapple
+-1.260249	grab the then
+-1.250167	pickup the </s>
+-0.9545034	pickup the dish
+-0.9545034	pickup the box
+-0.9545034	pickup the bag
+-0.9545034	pickup the banana
+-0.9545034	pickup the glass
+-0.9545034	pickup the apple
+-0.9545034	pickup the wallet
+-0.9545034	pickup the pineapple
+-1.260249	pickup the then
+-1.250482	pickup my </s>
+-0.9542669	pickup my dish
+-0.9542669	pickup my box
+-0.9542669	pickup my bag
+-0.9542669	pickup my banana
+-0.9542669	pickup my glass
+-0.9542669	pickup my apple
+-0.9542669	pickup my wallet
+-0.9542669	pickup my pineapple
+-1.260033	pickup my then
+-1.250167	take the </s>
+-0.9545034	take the dish
+-0.9545034	take the box
+-0.9545034	take the bag
+-0.9545034	take the banana
+-0.9545034	take the glass
+-0.9545034	take the apple
+-0.9545034	take the wallet
+-0.9545034	take the pineapple
+-1.260249	take the then
+-1.250482	take my </s>
+-0.9542669	take my dish
+-0.9542669	take my box
+-0.9542669	take my bag
+-0.9542669	take my banana
+-0.9542669	take my glass
+-0.9542669	take my apple
+-0.9542669	take my wallet
+-0.9542669	take my pineapple
+-1.260033	take my then
+-0.3979707	yes i want
+-0.7039567	yes i need
+-0.7039742	yes i would
+-0.1291655	yes do it
+-0.1518007	no i don't
+-0.2145755	no don't </s>
+-0.1115088	okay rhasspy </s>
+-0.07163931	okay sara </s>
+-0.07163931	hey sara </s>
+-0.2194467	what time is
+-0.3064666	tell me the
+-0.3136731	whats the temperature
+-0.1333561	how hot is
+-0.1333561	how cold is
+-0.8968982	is the </s>
+-1.154599	is the garage
+-0.9493155	is the kitchen
+-0.9493155	is the bathroom
+-0.9493155	is the living-room
+-0.9496504	is the car
+-0.9493155	is the entrance
+-0.02125792	is it </s>
+-0.6549064	turn the garage
+-0.6553794	turn the living
+-0.6530808	turn the bedroom
+-0.05112497	turn garage light
+-0.4124734	turn on the
+-0.9105196	turn on garage
+-0.9105663	turn on living
+-0.9101124	turn on bedroom
+-0.4124734	turn off the
+-0.9105196	turn off garage
+-0.9105663	turn off living
+-0.9101124	turn off bedroom
+-0.01695779	turn living room
+-0.005534686	turn bedroom light
+-0.06718586	set the bedroom
+-0.002348768	set bedroom light
+-0.1252657	make the bedroom
+-0.00411441	make bedroom light
+-0.05875294	want you to
+-0.002249611	me to the
+-0.3202164	me the time
+-0.2548035	are here </s>
+-0.2548035	are there </s>
+-0.01400719	are to the
+-0.007914491	are in the
+-0.006101972	are at the
+-0.009310546	are now to
+-0.1170222	scenario three </s>
+-0.1170222	scenario seven </s>
+-0.1170222	scenario zero </s>
+-0.1170222	scenario four </s>
+-0.1170222	scenario five </s>
+-0.1170222	scenario two </s>
+-0.1170222	scenario one </s>
+-0.1170222	scenario nine </s>
+-0.1170222	scenario eight </s>
+-0.1170222	scenario six </s>
+-0.001466266	to follow me
+-0.7993439	to the </s>
+-0.8137424	to the kitchen
+-0.8137424	to the bathroom
+-0.8137424	to the living-room
+-0.8532847	to the car
+-0.8137424	to the entrance
+-0.01860058	to red </s>
+-0.01860058	to green </s>
+-0.01860058	to blue </s>
+-0.1944759	the time </s>
+-0.1133268	the temperature </s>
+-0.5572104	the garage door
+-0.1683781	the garage light
+-0.2962939	the dish </s>
+-0.3058394	the dish then
+-0.2962939	the box </s>
+-0.3058394	the box then
+-0.2962939	the bag </s>
+-0.3058394	the bag then
+-0.2962939	the banana </s>
+-0.3058394	the banana then
+-0.2962939	the glass </s>
+-0.3058394	the glass then
+-0.2962939	the apple </s>
+-0.3058394	the apple then
+-0.2962939	the wallet </s>
+-0.3058394	the wallet then
+-0.2962939	the pineapple </s>
+-0.3058394	the pineapple then
+-0.001567698	the kitchen </s>
+-0.001567698	the bathroom </s>
+-0.001567698	the living-room </s>
+-0.001752635	the car </s>
+-0.001567698	the entrance </s>
+-0.1133268	the place </s>
+-0.6989807	the then grab
+-0.3979507	the then pickup
+-0.3979507	the then take
+-0.01012491	the living room
+-0.001177667	the bedroom light
+-0.296299	my dish </s>
+-0.3058447	my dish then
+-0.296299	my box </s>
+-0.3058447	my box then
+-0.296299	my bag </s>
+-0.3058447	my bag then
+-0.296299	my banana </s>
+-0.3058447	my banana then
+-0.296299	my glass </s>
+-0.3058447	my glass then
+-0.296299	my apple </s>
+-0.3058447	my apple then
+-0.296299	my wallet </s>
+-0.3058447	my wallet then
+-0.296299	my pineapple </s>
+-0.3058447	my pineapple then
+-0.6989859	my then grab
+-0.3979559	my then pickup
+-0.3979559	my then take
+-0.04199339	do it </s>
+-0.2169204	don't want </s>
+-0.07035042	don't need </s>
+-0.2686695	time is it
+-0.2635255	hot is it
+-0.2635255	cold is it
+-0.9482118	in the </s>
+-1.069805	in the kitchen
+-1.069805	in the bathroom
+-1.069805	in the living-room
+-1.070649	in the car
+-1.069805	in the entrance
+-0.9950704	at the </s>
+-1.133328	at the kitchen
+-1.133328	at the bathroom
+-1.133328	at the living-room
+-1.134307	at the car
+-1.133328	at the entrance
+-1.163824	at the place
+-0.01400719	now to the
+-0.1097107	would like </s>
+-0.4390417	garage door open
+-0.4390417	garage door closed
+-0.3753216	garage light </s>
+-0.6828723	garage light on
+-0.6828723	garage light off
+-0.7799452	on the garage
+-0.7808887	on the living
+-0.7763141	on the bedroom
+-0.07882176	on garage light
+-0.02559545	on living room
+-0.008298144	on bedroom light
+-0.7799452	off the garage
+-0.7808887	off the living
+-0.7763141	off the bedroom
+-0.07882176	off garage light
+-0.02559545	off living room
+-0.008298144	off bedroom light
+-0.6989766	dish then grab
+-0.3979465	dish then pickup
+-0.3979465	dish then take
+-0.6989766	box then grab
+-0.3979465	box then pickup
+-0.3979465	box then take
+-0.6989766	bag then grab
+-0.3979465	bag then pickup
+-0.3979465	bag then take
+-0.6989766	banana then grab
+-0.3979465	banana then pickup
+-0.3979465	banana then take
+-0.6989766	glass then grab
+-0.3979465	glass then pickup
+-0.3979465	glass then take
+-0.6989766	apple then grab
+-0.3979465	apple then pickup
+-0.3979465	apple then take
+-0.6989766	wallet then grab
+-0.3979465	wallet then pickup
+-0.3979465	wallet then take
+-0.6989766	pineapple then grab
+-0.3979465	pineapple then pickup
+-0.3979465	pineapple then take
+-0.1170222	door open </s>
+-0.1170222	door closed </s>
+-1.119045e-06	then grab the
+-0.3010309	then pickup the
+-0.3010311	then pickup my
+-0.3010309	then take the
+-0.3010311	then take my
+-0.005606793	living room lamp
+-0.7793285	bedroom light </s>
+-0.6704147	bedroom light to
+-1.093242	bedroom light on
+-1.093242	bedroom light off
+-0.8467749	bedroom light red
+-0.8467749	bedroom light green
+-0.8467749	bedroom light blue
+-0.3262565	room lamp </s>
+-0.6366492	room lamp on
+-0.6366492	room lamp off
+-0.6373027	light to red
+-0.6373027	light to green
+-0.6373027	light to blue
+-0.0575433	light on </s>
+-0.0575433	light off </s>
+-0.01107901	light red </s>
+-0.01107901	light green </s>
+-0.01107901	light blue </s>
+-0.1003012	lamp on </s>
+-0.1003012	lamp off </s>
+
+\end\

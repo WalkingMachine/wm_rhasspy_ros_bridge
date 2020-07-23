@@ -1,0 +1,98 @@
+affirmative	1.0	V_B f_I '3_I m_I V_I t_I I_I v_E
+and	1.0	V_B n_I d_E
+apple	1.0	'{_B p_I V_I l_E
+are	1.0	'A_B r_E
+at	1.0	'{_B t_E
+bag	1.0	b_B '{_I g_E
+banana	1.0	b_B V_I n_I '{_I n_I V_E
+bathroom	1.0	b_B '{_I T_I r_I u_I m_E
+bedroom	1.0	b_B 'E_I d_I r_I u_I m_E
+blue	1.0	b_B l_I 'u_E
+box	1.0	b_B 'A_I k_I s_E
+can	1.0	k_B '{_I n_E
+car	1.0	k_B 'A_I r_E
+closed	1.0	k_B l_I 'o_I U_I z_I d_E
+cold	1.0	k_B 'o_I U_I l_I d_E
+could	1.0	k_B 'U_I d_E
+dish	1.0	d_B 'I_I S_E
+do	1.0	d_B 'u_E
+don't	1.0	d_B 'o_I U_I n_I t_E
+door	1.0	d_B 'O_I r_E
+eight	1.0	'e_B I_I t_E
+emergency	1.0	I_B m_I '3_I dZ_I V_I n_I s_I i_E
+entrance	1.0	'E_B n_I t_I r_I V_I n_I s_E
+five	1.0	f_B 'aI_I v_E
+follow	1.0	f_B 'A_I l_I o_I U_E
+four	1.0	f_B 'O_I r_E
+garage	1.0	g_B 3_I 'A_I Z_E
+glass	1.0	g_B l_I '{_I s_E
+go	1.0	g_B 'o_I U_E
+grab	1.0	g_B r_I '{_I b_E
+green	1.0	g_B r_I 'i_I n_E
+here	1.0	h_B 'i_I r_E
+hey	1.0	h_B 'e_I I_E
+hot	1.0	h_B 'A_I t_E
+how	1.0	h_B 'aU_E
+i	1.0	'aI_S
+in	1.0	I_B n_E
+initialize	1.0	I_B n_I 'I_I S_I V_I l_I aI_I z_E
+is	1.0	'I_B z_E
+it	1.0	'I_B t_E
+kitchen	1.0	k_B 'I_I tS_I V_I n_E
+lamp	1.0	l_B '{_I m_I p_E
+light	1.0	l_B 'aI_I t_E
+like	1.0	l_B 'aI_I k_E
+living	1.0	l_B 'I_I v_I I_I N_E
+living-room	1.0	l_B 'I_I v_I I_I N_I r_I u_I m_E
+make	1.0	m_B 'e_I I_I k_E
+me	1.0	m_B 'i_E
+my	1.0	m_B 'aI_E
+need	1.0	n_B 'i_I d_E
+negative	1.0	n_B 'E_I g_I V_I t_I I_I v_E
+nine	1.0	n_B 'aI_I n_E
+no	1.0	n_B 'o_I U_E
+nope	1.0	n_B 'o_I U_I p_E
+now	1.0	n_B 'aU_E
+off	1.0	'O_B f_E
+okay	1.0	o_B U_I k_I 'e_I I_E
+on	1.0	'A_B n_E
+one	1.0	w_B 'V_I n_E
+open	1.0	'o_B U_I p_I V_I n_E
+pickup	1.0	p_B 'I_I k_I V_I p_E
+pineapple	1.0	p_B 'aI_I n_I {_I p_I V_I l_E
+place	1.0	p_B l_I 'e_I I_I s_E
+please	1.0	p_B l_I 'i_I z_E
+red	1.0	r_B 'E_I d_E
+rhasspy	1.0	r_B '{_I s_I p_I i_E
+robot	1.0	r_B 'o_I U_I b_I A_I t_E
+room	1.0	r_B 'u_I m_E
+sara	1.0	s_B 'E_I r_I V_E
+scenario	1.0	s_B I_I n_I 'E_I r_I i_I o_I U_E
+set	1.0	s_B 'E_I t_E
+seven	1.0	s_B 'E_I v_I V_I n_E
+six	1.0	s_B 'I_I k_I s_E
+snowboy	1.0	s_B n_I 'o_I U_I b_I OI_E
+start	1.0	s_B t_I 'A_I r_I t_E
+stop	1.0	s_B t_I 'A_I p_E
+system	1.0	s_B 'I_I s_I t_I V_I m_E
+take	1.0	t_B 'e_I I_I k_E
+tell	1.0	t_B 'E_I l_E
+temperature	1.0	t_B 'E_I m_I p_I r_I V_I tS_I 3_E
+the	1.0	D_B V_E
+then	1.0	D_B 'E_I n_E
+there	1.0	D_B 'E_I r_E
+this	1.0	D_B 'I_I s_E
+three	1.0	T_B r_I 'i_E
+time	1.0	t_B 'aI_I m_E
+to	1.0	t_B 'u_E #1
+turn	1.0	t_B '3_I n_E
+two	1.0	t_B 'u_E #2
+wallet	1.0	w_B 'O_I l_I V_I t_E
+want	1.0	w_B 'A_I n_I t_E
+we	1.0	w_B 'i_E
+what	1.0	w_B 'V_I t_E
+whats	1.0	w_B V_I ts_E
+would	1.0	w_B 'U_I d_E
+yes	1.0	j_B 'E_I s_E
+you	1.0	j_B 'u_E
+zero	1.0	z_B 'I_I r_I o_I U_E

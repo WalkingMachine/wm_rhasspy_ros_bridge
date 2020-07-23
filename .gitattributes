@@ -1,0 +1,2 @@
+rhasspy-server.tar filter=lfs diff=lfs merge=lfs -text
+rhasspy_config/rhasspy-server.tar filter=lfs diff=lfs merge=lfs -text

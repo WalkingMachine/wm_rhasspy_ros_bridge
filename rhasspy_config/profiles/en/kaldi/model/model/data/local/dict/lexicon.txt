@@ -1,0 +1,105 @@
+a V
+after '{ f t 3
+all 'O l
+an '{ n
+and V n d
+are 'A r
+automation O t V m 'e I S V n
+bed b 'E d
+black b l '{ k
+blue b l 'u
+brightness b r 'aI t n V s
+brown b r 'aU n
+ceiling s 'i l I N
+close k l 'o U s
+closed k l 'o U z d
+covers k 'V v 3 z
+door d 'O r
+eight 'e I t
+eighteen e I t 'i n
+eighty 'e I t i
+eleven I l 'E v V n
+execute 'E k s V k j u t
+fifteen f I f t 'i n
+fifty f 'I f t i
+five f 'aI v
+for f 'O r
+forty f 'O r t i
+four f 'O r
+fourteen f 'O r t 'i n
+garage g 3 'A Z
+gray g r 'e I
+green g r 'i n
+half h '{ f
+hall h 'O l
+has h '{ z
+hour 'aU 3
+hours 'aU 3 z
+hundred h 'V n d r V d
+in I n
+is 'I z
+it 'I t
+items 'aI t V m z
+kitchen k 'I tS V n
+light l 'aI t
+lights l 'aI ts
+list l 'I s t
+living l 'I v I N
+maximum m '{ k s V m V m
+me m 'i
+minute m 'I n V t
+minutes m 'I n V ts
+my m 'aI
+nine n 'aI n
+nineteen n 'aI n t 'i n
+ninety n 'aI n t i
+of 'V v
+off 'O f
+on 'A n
+one w 'V n
+open 'o U p V n
+orange 'O r V n dZ
+pink p 'I N k
+program p r 'o U g r { m
+purple p '3 p V l
+red r 'E d
+room r 'u m
+run r 'V n
+second s 'E k V n d
+seconds s 'E k V n d z
+set s 'E t
+seven s 'E v V n
+seventeen s 'E v V n t 'i n
+seventy s 'E v V n t i
+shopping S 'A p I N
+six s 'I k s
+sixteen s I k s t 'i n
+sixty s 'I k s t i
+state s t 'e I t
+states s t 'e I ts
+sun s 'V n
+sunset s 'V n s E t
+tell t 'E l
+temperature t 'E m p r V tS 3
+ten t 'E n
+test t 'E s t
+the D V
+thirteen T '3 t 'i n
+thirty T '3 d i
+three T r 'i
+timer t 'aI m 3
+to t 'u
+toggle t 'A g V l
+trigger t r 'I g 3
+turn t '3 n
+twelve t w 'E l v
+twenty t w 'E n t i
+two t 'u
+violet v 'aI V l I t
+what w 'V t
+white w 'aI t
+window w 'I n d o U
+yellow j 'E l o U
+yet j 'E t
+zero z 'I r o U
+vlc v l 'E s

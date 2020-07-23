@@ -1,0 +1,98 @@
+affirmative V f '3 m V t I v
+and V n d
+apple '{ p V l
+are 'A r
+at '{ t
+bag b '{ g
+banana b V n '{ n V
+bathroom b '{ T r u m
+bedroom b 'E d r u m
+blue b l 'u
+box b 'A k s
+can k '{ n
+car k 'A r
+closed k l 'o U z d
+cold k 'o U l d
+could k 'U d
+dish d 'I S
+do d 'u
+don't d 'o U n t
+door d 'O r
+eight 'e I t
+emergency I m '3 dZ V n s i
+entrance 'E n t r V n s
+five f 'aI v
+follow f 'A l o U
+four f 'O r
+garage g 3 'A Z
+glass g l '{ s
+go g 'o U
+grab g r '{ b
+green g r 'i n
+here h 'i r
+hey h 'e I
+hot h 'A t
+how h 'aU
+i 'aI
+in I n
+initialize I n 'I S V l aI z
+is 'I z
+it 'I t
+kitchen k 'I tS V n
+lamp l '{ m p
+light l 'aI t
+like l 'aI k
+living l 'I v I N
+living-room l 'I v I N r u m
+make m 'e I k
+me m 'i
+my m 'aI
+need n 'i d
+negative n 'E g V t I v
+nine n 'aI n
+no n 'o U
+nope n 'o U p
+now n 'aU
+off 'O f
+okay o U k 'e I
+on 'A n
+one w 'V n
+open 'o U p V n
+pickup p 'I k V p
+pineapple p 'aI n { p V l
+place p l 'e I s
+please p l 'i z
+red r 'E d
+rhasspy r '{ s p i
+robot r 'o U b A t
+room r 'u m
+sara s 'E r V
+scenario s I n 'E r i o U
+set s 'E t
+seven s 'E v V n
+six s 'I k s
+snowboy s n 'o U b OI
+start s t 'A r t
+stop s t 'A p
+system s 'I s t V m
+take t 'e I k
+tell t 'E l
+temperature t 'E m p r V tS 3
+the D V
+then D 'E n
+there D 'E r
+this D 'I s
+three T r 'i
+time t 'aI m
+to t 'u
+turn t '3 n
+two t 'u
+wallet w 'O l V t
+want w 'A n t
+we w 'i
+what w 'V t
+whats w V ts
+would w 'U d
+yes j 'E s
+you j 'u
+zero z 'I r o U
