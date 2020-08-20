@@ -13,26 +13,15 @@ import json
 import rospy
 from time import sleep, time
 #   Local imports
-from hermes_services import HermesServices
+from hermes_services import HermesProcess
 from rhasspy_rest_api import RhasspyRestApiClient, RhasspyRestApiServer
 from rhasspy_mqtt_client import MqttClient
-from rhasspy_ros_client import RosClient
+from rhasspy_ros_client import RosClientThread
 from rhasspy_utils import *
 from std_msgs.msg import String
 
-# Debug mode to run as normal python program
-DEBUG = False
-if DEBUG:
-    sys.path.remove('/opt/ros/kinetic/lib/python2.7/dist-packages')
-else:
-    # noinspection PyUnresolvedReferences
-    from wm_rhasspy_ros_bridge.msg import listen
-    # noinspection PyUnresolvedReferences
-    from wm_rhasspy_ros_bridge.msg import wm_rhasspy_ctrl
-    # noinspection PyUnresolvedReferences
-    from wm_rhasspy_ros_bridge.srv import rhasspy_service, rhasspy_ctrl_service
 
-
+# Constants
 LOG_PREFIX = log_prefix("Main")
 
 RHASSPY_1_REST_URM = "http://0.0.0.0:12101"
@@ -42,22 +31,17 @@ WEB_SERVER_2_PORT = 8011
 
 
 class CallbackCenter:
+    """
+    CallbackCenter is a special class where all the callback are linked
+        -The purpose is to make a "callback hell" code more easy to read
+        -Normally all the callback should come here
+    """
     def __init__(self):
         self.function_ros_publish_intent = None
         self.rest_api_client_1 = RhasspyRestApiClient(RHASSPY_1_REST_URM)
 
-        rospy.Service('rhasspy_ctrl_service', rhasspy_ctrl_service, self.service_callback)
-        rospy.Subscriber('wm_rhasspy_ctrl', data_class=wm_rhasspy_ctrl, callback=self.topic_callback, queue_size=1)
-
-    # Service callback function
-    def service_callback(self, req):
-        print("debug:", req)
-
-    # Topic callback function
-    def topic_callback(self, data):
-        print("debug:", data)
-
     def set_function_ros_publish_intent(self, function):
+        """ Attache remote function """
         self.function_ros_publish_intent = function
 
     def ros_publish_intent(self, text):
@@ -118,34 +102,34 @@ class CallbackCenter:
             _rhasspy_client.listen()
 
 
-
 if __name__ == "__main__":
     """ Init services """
     callback_center = CallbackCenter()     # Will Process callback from MQTT and Ros
 
-    ros_client1 = RosClient()    # Ros client read and write on Ros Topics
-    hermes = HermesServices()    # Hermes services send and receive audio to Rhasspy by MQTT
-    mqtt_client1 = MqttClient()  # MQTT client read and write on MQTT Topics (communicate with Rhasspy)
+    # Abstraction layer interfaces
+    ros_client = RosClientThread()     # Ros client read and write on Ros Topics
+    hermes = HermesProcess()           # Hermes services send and receive audio to Rhasspy by MQTT
+    mqtt_client = MqttClient()         # MQTT client read and write on MQTT Topics
     rest_server = RhasspyRestApiServer(WEB_SERVER_1_PORT)  # Rest server to receive command from Rhasspy
 
     """ Connect all the services to the callback center """
     # Connect Ros Client callbacks to the "callback_center"
-    ros_client1.set_on_message_callback(callback_center.callback_ros_on_message)
+    ros_client.set_on_message_callback(callback_center.callback_ros_on_message)
     # Connect the function "ros_publisher_intent" to the Roc Client "intent" topic publisher
-    callback_center.set_function_ros_publish_intent(ros_client1.publish_intent)
+    callback_center.set_function_ros_publish_intent(ros_client.publish_intent)
     # Connect MQTT callbacks to the "callback_center"
-    mqtt_client1.set_on_connect_callback(callback_center.callback_mqtt_on_connect)
-    mqtt_client1.set_on_message_callback(callback_center.callback_mqtt_on_message)
+    mqtt_client.set_on_connect_callback(callback_center.callback_mqtt_on_connect)
+    mqtt_client.set_on_message_callback(callback_center.callback_mqtt_on_message)
     # Connect Rhasspy Local Rest Server "on_POST" callback
     rest_server.set_remote_post_callback(callback_center.callback_local_rest_server_on_post)
 
     # Start services
     rest_server.start()
-    ros_client1.start()
+    ros_client.start()
     sleep(1)
     rhasspy_client = RhasspyRestApiClient(RHASSPY_1_REST_URM)
     rhasspy_client.say_tts("I'm listening")  # Used to sent TTS to Rhasspy
-    mqtt_client1.start()
+    mqtt_client.start()
     sleep(1)
     _rhasspy_client = RhasspyRestApiClient(RHASSPY_1_REST_URM)
     _rhasspy_client.listen()
@@ -153,5 +137,3 @@ if __name__ == "__main__":
     callback_center.wait_until_shutdown()
     hermes.stop()
     rest_server.stop()
-
-

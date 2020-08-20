@@ -3,6 +3,7 @@ from threading import Thread
 import paho.mqtt.client as mqtt
 from rhasspy_utils import *
 
+# Global constant
 LOG_PREFIX = log_prefix("MQTT-Cli")
 
 

@@ -7,47 +7,51 @@ from threading import Thread
 #   Local imports
 from rhasspy_utils import *
 
-from wm_rhasspy_ros_bridge.msg import listen
+#   Generated imports
+# noinspection PyUnresolvedReferences
+from wm_rhasspy_ros_bridge.msg import listen as ListenMsg
+# noinspection PyUnresolvedReferences
+from wm_rhasspy_ros_bridge.msg import wm_rhasspy_ctrl
+# noinspection PyUnresolvedReferences
+from wm_rhasspy_ros_bridge.srv import rhasspy_service, rhasspy_ctrl_service
 
+#   Global constant
 LOG_PREFIX = log_prefix("Ros-Cli")
-
-
-# Notes
-# rospy.loginfo("[ERROR][snips_get_speach_text] " + str(e))
-# rospy.Subscriber(ROS_MESSAGE_I_TTS             , String, lambda message: self.callback_ros_on_message(message, ROS_MESSAGE_I_TTS))
-# rospy.Subscriber(ROS_MESSAGE_I_ACTIVE_LISTENING, Empty, lambda message: self.callback_ros_on_message(message, ROS_MESSAGE_I_ACTIVE_LISTENING))
-# rospy.Subscriber(ROS_TO_NODE_START_LISTENING, Empty, self.callback_ros_on_message)
-
 
 # noinspection PyUnusedLocal
 # noinspection PyMethodMayBeStatic
-class RosClient(Thread):
-    """ """
+class RosClientThread(Thread):
+    """ Ros abstraction
+            All class to communicate with Ros Core
+            -Topic publisher
+            -Topic subscriber
+    """
     def __init__(self):
         Thread.__init__(self)
         self.mqtt_client = None
-        rospy.init_node('wm_rhasspy_service')
-        self.ros_pub_stt = rospy.Publisher(RHASSPY_TO_ROS_STT, String, queue_size=10)
+        # Ros core connection initialisation
+        rospy.init_node(ROS_RHASSPY_NODE)
+        self.listen_msg = rospy.Publisher(ROS_TOPIC_LISTEN, ListenMsg, queue_size=1)
 
-        self.ssss = rospy.Publisher("/wm_rhasspy/test", listen, queue_size=1)
-
-        msg = listen()
-        msg.intent = "intent_1"
-        msg.target = "target_1"
-        self.ssss.publish(msg)
+    # Topic callback function
+    def control_callback(self, data):
+        """ Callback of Ros Subscriber "control" """
+        print("debug:", data)
 
     def publish_intent(self, text):
-        self.ros_pub_stt.publish(text)
-        msg = listen()
+
+        msg = ListenMsg()
         msg.intent = "intent_1"
         msg.target = "target_1"
-        self.ssss.publish(msg)
+        self.listen_msg.publish(msg)
 
     def set_on_message_callback(self, callback):
-        rospy.Subscriber(RHASSPY_TO_ROS_STT, String,
-                         lambda message: callback(message, RHASSPY_TO_ROS_STT))
+        rospy.Subscriber(ROS_TOPIC_CONTROL, data_class=wm_rhasspy_ctrl, callback=self.control_callback, queue_size=1)
+
+        rospy.Subscriber(RHASSPY_TO_ROS_STT, String, lambda message: callback(message, RHASSPY_TO_ROS_STT))
 
     def run(self):
         ros_log(LOG_PREFIX + "Started")
         rospy.spin()
         ros_log(LOG_PREFIX + "Stopped")
+

@@ -1,13 +1,14 @@
 import requests
 import json
-#from SocketServer import TCPServer
+# from SocketServer import TCPServer  # Depend of python version
 from socketserver import TCPServer
 from http.server import BaseHTTPRequestHandler
 from threading import Thread
 from time import sleep
 from rhasspy_utils import *
-from hermes_services import HermesServices
+from hermes_services import HermesProcess
 
+# Global constant
 RHASSPY_1_REST_URM = "http://0.0.0.0:12101"
 RHASSPY_2_REST_URM = "http://0.0.0.0:12102"
 WEB_SERVER_1_PORT = 8010
@@ -150,7 +151,7 @@ def test_():
         else:
             rhasspy_client.listen()
 
-    hermes = HermesServices()    # Hermes services send and receive audio to Rhasspy by MQTT
+    hermes = HermesProcess()    # Hermes services send and receive audio to Rhasspy by MQTT
 
     rhasspy_client = RhasspyRestApiClient(RHASSPY_2_REST_URM)
     rest_server = RhasspyRestApiServer(WEB_SERVER_2_PORT)

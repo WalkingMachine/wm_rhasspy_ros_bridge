@@ -5,6 +5,7 @@ from threading import Thread
 from time import sleep
 from rhasspy_utils import *
 
+# Global constant
 LOG_PREFIX = log_prefix("Hermes")
 
 
@@ -47,7 +48,12 @@ class BashProcess(Thread):
             ros_log("Error while killing Hermes service: " + str(e))
 
 
-class HermesServices:
+class HermesProcess:
+    """
+    Manage the system process:
+        hermes-audio-player
+        hermes-audio-recorder
+    """
     def __init__(self, output_log=False):
         self.s1 = BashProcess("hermes-audio-player", output_log)
         self.s2 = BashProcess("hermes-audio-recorder", output_log)
@@ -60,7 +66,7 @@ class HermesServices:
 
 # For testing purpose only
 if __name__ == "__main__":
-    h = HermesServices(output_log=True)
+    h = HermesProcess(output_log=True)
     sleep(5)  # Stop after N seconds
     h.stop()
     sleep(50)
