@@ -37,12 +37,14 @@ find_package(catkin REQUIRED COMPONENTS
  add_message_files(
    FILES
    listen.msg
+   wm_rhasspy_ctrl.msg
  )
 
 ## Generate services in the 'srv' folder
  add_service_files(
    FILES
    rhasspy_service.srv
+   rhasspy_ctrl_service.srv
  )
 
 ## Generate added messages and services with any dependencies listed here

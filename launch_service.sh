@@ -1,0 +1,1 @@
+rosrun wm_rhasspy_ros_bridge wm_rhasspy_service.py

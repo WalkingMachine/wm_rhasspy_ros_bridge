@@ -7,6 +7,8 @@ from threading import Thread
 #   Local imports
 from rhasspy_utils import *
 
+from wm_rhasspy_ros_bridge.msg import listen
+
 LOG_PREFIX = log_prefix("Ros-Cli")
 
 
@@ -27,8 +29,19 @@ class RosClient(Thread):
         rospy.init_node('wm_rhasspy_service')
         self.ros_pub_stt = rospy.Publisher(RHASSPY_TO_ROS_STT, String, queue_size=10)
 
+        self.ssss = rospy.Publisher("/wm_rhasspy/test", listen, queue_size=1)
+
+        msg = listen()
+        msg.intent = "intent_1"
+        msg.target = "target_1"
+        self.ssss.publish(msg)
+
     def publish_intent(self, text):
         self.ros_pub_stt.publish(text)
+        msg = listen()
+        msg.intent = "intent_1"
+        msg.target = "target_1"
+        self.ssss.publish(msg)
 
     def set_on_message_callback(self, callback):
         rospy.Subscriber(RHASSPY_TO_ROS_STT, String,

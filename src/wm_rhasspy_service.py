@@ -20,11 +20,18 @@ from rhasspy_ros_client import RosClient
 from rhasspy_utils import *
 from std_msgs.msg import String
 
+# Debug mode to run as normal python program
 DEBUG = False
 if DEBUG:
     sys.path.remove('/opt/ros/kinetic/lib/python2.7/dist-packages')
 else:
+    # noinspection PyUnresolvedReferences
     from wm_rhasspy_ros_bridge.msg import listen
+    # noinspection PyUnresolvedReferences
+    from wm_rhasspy_ros_bridge.msg import wm_rhasspy_ctrl
+    # noinspection PyUnresolvedReferences
+    from wm_rhasspy_ros_bridge.srv import rhasspy_service, rhasspy_ctrl_service
+
 
 LOG_PREFIX = log_prefix("Main")
 
@@ -38,6 +45,17 @@ class CallbackCenter:
     def __init__(self):
         self.function_ros_publish_intent = None
         self.rest_api_client_1 = RhasspyRestApiClient(RHASSPY_1_REST_URM)
+
+        rospy.Service('rhasspy_ctrl_service', rhasspy_ctrl_service, self.service_callback)
+        rospy.Subscriber('wm_rhasspy_ctrl', data_class=wm_rhasspy_ctrl, callback=self.topic_callback, queue_size=1)
+
+    # Service callback function
+    def service_callback(self, req):
+        print("debug:", req)
+
+    # Topic callback function
+    def topic_callback(self, data):
+        print("debug:", data)
 
     def set_function_ros_publish_intent(self, function):
         self.function_ros_publish_intent = function
@@ -135,4 +153,5 @@ if __name__ == "__main__":
     callback_center.wait_until_shutdown()
     hermes.stop()
     rest_server.stop()
+
 
