@@ -1,0 +1,14 @@
+# liste des pétiphériques
+pactl list
+
+# List output devices (sink is generally output devices)
+pactl list sinks
+
+# List input devices (source is generally input devices)
+pactl list sources
+
+# Define default playback device
+pactl set-default-sink alsa_output.usb-Creative_Technology_Ltd_Sound_Blaster_JAM_00000000006fc3cb-00.iec958-stereo.echo-cancel
+
+# Define default record device (with eco cancellation, devices name can be mixed with others...)
+pactl set-default-source alsa_input.pci-0000_00_1b.0.analog-stereo.echo-cancel

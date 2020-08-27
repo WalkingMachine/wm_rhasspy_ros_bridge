@@ -1,0 +1,80 @@
+[FolowMe]
+please = (please | can you | please can you | can you please | i want you to | could you)
+place = ($place) | {place}
+<please> follow me to the <place>
+follow me to the <place>
+follow me
+[Indication]
+place = ($place) | {place}
+here is the <place>
+there is the <place>
+this is the <place>
+you are in the <place>
+you are at the <place>
+we are [now] to the <place>
+[WeAreHere]
+we are here
+we are there
+we are at the place
+[Start]
+robot start
+initialize system
+start scenario $number
+[Stop]
+stop system
+emergency stop
+[And]
+and
+[Go]
+room = ($room) | {room}
+go to the <room>
+[Grabbing]
+object = ($object) | {object}
+grab_1 = grab the <object>
+grab_2 = pickup the <object>
+grab_3 = pickup my <object>
+grab_4 = take my <object>
+grab_5 = take the <object>
+[Yes]
+yes
+affirmative
+yes do it
+yes i want
+yes i need
+yes i would like
+[No]
+no
+negative
+no don't
+nope
+no i don't want
+no i don't need
+[Wake]
+okay rhasspy
+okay sara
+hey sara
+snowboy
+[GetTime]
+what time is it
+tell me the time
+
+[GetTemperature]
+whats the temperature
+how (hot | cold) is it
+
+[GetGarageState]
+is the garage door (open | closed)
+
+[ChangeLightState]
+light_name = ((living room lamp | garage light) {name}) | <ChangeLightColor.light_name>
+light_state = (on | off) {state}
+
+turn <light_state> [the] <light_name>
+turn [the] <light_name> <light_state>
+
+[ChangeLightColor]
+light_name = (bedroom light) {name}
+color = (red | green | blue) {color}
+
+set [the] <light_name> [to] <color>
+make [the] <light_name> <color>

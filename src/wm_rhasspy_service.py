@@ -18,7 +18,6 @@ from rhasspy_rest_api import RhasspyRestApiClient, RhasspyRestApiServer
 from rhasspy_mqtt_client import MqttClient
 from rhasspy_ros_client import RosClientThread
 from rhasspy_utils import *
-from std_msgs.msg import String
 
 
 # Constants

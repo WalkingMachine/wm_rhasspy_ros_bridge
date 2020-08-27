@@ -1,0 +1,2 @@
+(<grab_1> | <grab_2> | <grab_3> | <grab_4> | <grab_5>)
+(<grab_1> | <grab_2> | <grab_3> | <grab_4> | <grab_5>) then (<grab_1> | <grab_2> | <grab_3> | <grab_4> | <grab_5>)

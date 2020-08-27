@@ -1,4 +1,4 @@
 # Development Notes
-### A set of usefull notes to develop Rhasspy_Ros_Bridge program
+### A set of useful notes to develop Rhasspy_Ros_Bridge program
 
-* Do not conciser notes as perfect, there is some not functional things 
+* Do not conciser notes as perfect, there is none functional things
