@@ -40,13 +40,24 @@ sudo pip3 install hermes-audio-server
 
 
 
-Launch Rhasspy ROS Bridge (2020-08-26)
+Launch Rhasspy ROS Bridge (2021-01-02)
 ```
 cd $HOME/ROS-WS
 catkin_make
 source devel/setup.bash
 rosrun wm_rhasspy_ros_bridge wm_rhasspy_service.py
 ```
+
+Open Rhasspy Web UI (2021-01-02)
+```
+http://localhost:12101/
+```
+
+Open Portainer Web UI (2021-01-02)
+```
+http://localhost:9000/#/auth
+```
+
 
 Debug
 ```
