@@ -21,6 +21,7 @@ API_WAV_TO_INTENT = "/api/speech-to-intent?nohass=true"
 API_TRAIN = "/api/train"
 LOG_PREFIX = log_prefix("Rest-api")
 
+TTS_PAUSE = ".."
 
 # noinspection PyMethodMayBeStatic
 class RhasspyRestApiClient:
@@ -30,6 +31,7 @@ class RhasspyRestApiClient:
     """ RhasspyRestApiClient is user to send request to the Rhasspy Server """
     def say_tts(self, tts_text):
         try:
+            tts_text = tts_text + TTS_PAUSE
             ros_log(LOG_PREFIX + ">>> Sending TTS: " + str(tts_text))
             r = requests.post(url=self.url + API_SAY, data=tts_text, timeout=1)
         except Exception as e:

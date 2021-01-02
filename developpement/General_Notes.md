@@ -23,13 +23,29 @@ Launch Ros Core
 ```
 roscore
 ```
+
+Install (2020-08-30) (WSL 2.0)
+```
+sudo apt install python-pip
+sudo apt install python3-pip
+pip3 install paho-mqtt pyyaml rospkg requests netifaces
+sudo apt-get install mosquitto mosquitto-clients
+sudo systemctl restart mosquitto
+# use the install script if no service
+sudo apt install libasound-dev portaudio19-dev libportaudiocpp0
+pip3 install pyaudio
+pip install pathlib
+sudo pip3 install hermes-audio-server
+```
+
+
+
 Launch Rhasspy ROS Bridge (2020-08-26)
 ```
 cd $HOME/ROS-WS
 catkin_make
 source devel/setup.bash
 rosrun wm_rhasspy_ros_bridge wm_rhasspy_service.py
-
 ```
 
 Debug

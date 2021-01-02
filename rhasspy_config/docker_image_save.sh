@@ -11,4 +11,4 @@ if [ $this_dir != "rhasspy_config" ]; then
   exit 1
 fi
 echo ">> copy rhasspy docker image"
-sudo docker save synesthesiam/rhasspy-server > rhasspy-server.tar
+sudo docker save rhasspy/rhasspy:latest > rhasspy.tar
