@@ -38,7 +38,10 @@ pip install pathlib
 sudo pip3 install hermes-audio-server
 ```
 
-
+Launch Docker (if you use WSL, or if somehow not started)
+```
+sudo service docker start
+```
 
 Launch Rhasspy ROS Bridge (2021-01-02)
 ```

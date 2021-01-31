@@ -35,17 +35,17 @@ Notes:
 * Interface docker0 == 172.17.0.1
 ### Portainer (docker interface)
 ```
-docker volume create portainer_data
-docker run -d -p 8000:8000 -p 9000:9000 --name=portainer --restart=always -v /var/run/docker.sock:/var/run/docker.sock -v portainer_data:/data portainer/portainer-ce
+sudo docker volume create portainer_data
+sudo docker run -d -p 8000:8000 -p 9000:9000 --name=portainer --restart=always -v /var/run/docker.sock:/var/run/docker.sock -v portainer_data:/data portainer/portainer-ce
 
 # Deprecated command (i dont remember why this is here)
 /var/run/docker.sock:/var/run/docker.sock -v portainer_data:/data portainer/portainer
 ```
 ### Run Rhasspy docker image
 ```
-docker run -d -p 12101:12101\
+sudo docker run -d -p 12101:12101\
       --restart unless-stopped \
-      -v "$HOME/.config/rhasspy/profiles:/profiles" \      --device /dev/snd:/dev/snd \
+      -v "$HOME/.config/rhasspy/profiles:/profiles" \      
       synesthesiam/rhasspy-server:latest \
       --user-profiles /profiles \
       --profile en
